@@ -48,7 +48,7 @@ GEM
       archive-tar-minitar (>= 0.5.2)
     shoulda (2.11.3)
     term-ansicolor (1.0.5)
-    yajl-ruby (0.8.1)
+    yajl-ruby (0.8.3)
 
 PLATFORMS
   ruby
@@ -66,4 +66,4 @@ DEPENDENCIES
   ruby-debug19 (= 0.11.6)
   ruby-prof (= 0.10.7)
   shoulda
-  yajl-ruby (= 0.8.1)
+  yajl-ruby (= 0.8.3)
