@@ -1,19 +1,10 @@
-= parsley
+hand_history_parser isn't using symbols because all of the conversion to 
+symbol and back to string seemed to be a wash performance wise.
 
-Description goes here.
+http://www.cerebris.com/blog/2011/03/15/creating-and-managing-private-rubygems-with-jeweler-github-and-bundler/
 
-== Contributing to parsley
- 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
-
-== Copyright
-
-Copyright (c) 2011 Jeremy Smith. See LICENSE.txt for
-further details.
-
+Process for publishing:
+rake version:bump:minor (1.2.3 -> 1=major, 2=minor, 3=patch)
+rake gemspec
+rake commit -a -m ""
+rake release (don't use sudo)
