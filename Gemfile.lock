@@ -26,7 +26,7 @@ GEM
     mahoro (0.3)
     rake (0.8.7)
     rcov (0.9.10)
-    redis (2.2.1)
+    redis (2.2.2)
     rspec (2.6.0)
       rspec-core (~> 2.6.0)
       rspec-expectations (~> 2.6.0)
@@ -61,7 +61,7 @@ DEPENDENCIES
   jeweler (~> 1.6.4)
   mahoro (= 0.3)
   rcov
-  redis (= 2.2.1)
+  redis (= 2.2.2)
   rspec (= 2.6.0)
   ruby-debug19 (= 0.11.6)
   ruby-prof (= 0.10.7)

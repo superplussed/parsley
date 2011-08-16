@@ -7,4 +7,5 @@ Process for publishing:
 rake version:bump:minor (1.2.3 -> 1=major, 2=minor, 3=patch)
 rake gemspec
 rake commit -a -m ""
+sudo rake install
 rake release (don't use sudo)
