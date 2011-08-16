@@ -19,11 +19,13 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/parsley.rb",
+    "parsley.gemspec",
     "test/helper.rb",
     "test/test_parsley.rb"
   ]
