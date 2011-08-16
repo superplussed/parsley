@@ -1,7 +1,7 @@
 Given /^a hand history file named "(.*)"$/ do |fn|
 	#$redis.flushall
 	@fn = fn
-	@parser = HandHistoryParser.new(@fn)  
+	@parser = Parsley.new(@fn)  
 end
 
 When /^it is parsed and formatted$/ do

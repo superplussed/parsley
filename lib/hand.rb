@@ -61,7 +61,7 @@ class Hand
 			@fields = Formatter.get(@fields).to_a
 			add_fields
 			add_lists
-			id = "#{HandHistoryParser.current_file_name}:#{hand_id}"
+			id = "#{Parsley.current_file_name}:#{hand_id}"
 			$redis.rpush("unprocessed:hand", id)
 			$redis.hmset("hand:#{id}", *@fields) 
 			reset

@@ -1,6 +1,6 @@
 class State
 	require 'Yajl'
-	REGEXES_PATH = "files/regex/"
+	REGEXES_PATH = "../files/regex/"
 
   attr_accessor :summary_header, :name, :matched
  
