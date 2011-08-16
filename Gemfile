@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'redis', '2.2.2'
-gem 'yajl-ruby', '0.8.1'
+gem 'yajl-ruby', '0.8.3'
 gem 'mahoro', '0.3'
 gem 'activesupport', '3.0.9'
 
