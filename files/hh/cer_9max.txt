@@ -1,0 +1,41 @@
+Stage #C446764591: Holdem No Limit $0.02  - 2011-04-13 16:32:54 (ET)
+Table: Lucille Ave (Real Money) Seat #4 is the dealer
+Seat 4 - RAAV ($2 in chips)
+Seat 5 - DANGER91 ($0.96 in chips)
+Seat 8 - JNAIS ($1.76 in chips)
+Seat 1 - MBUFF151 ($2.28 in chips)
+Seat 2 - GOLFPRO_420 ($2.10 in chips)
+Seat 3 - LADYTRUCKER69 ($4.79 in chips)
+DANGER91 - Posts small blind $0.01
+JNAIS - Posts big blind $0.02
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [Qd 7d]
+MBUFF151 - Raises $0.07 to $0.07
+GOLFPRO_420 - Calls $0.07
+LADYTRUCKER69 - Folds
+RAAV - Folds
+DANGER91 - Folds
+JNAIS - Folds
+*** FLOP *** [4c Qs 10d] 
+MBUFF151 - Bets $0.08
+GOLFPRO_420 - Calls $0.08
+*** TURN *** [4c Qs 10d] [8h]
+MBUFF151 - Bets $0.16
+GOLFPRO_420 - Calls $0.16
+*** RIVER *** [4c Qs 10d 8h] [3d]
+MBUFF151 - Bets $0.32
+GOLFPRO_420 - Raises $0.64 to $0.64
+MBUFF151 - Calls $0.32
+*** SHOW DOWN ***
+GOLFPRO_420 - Shows [Qd 7d] (One pair, queens) 
+MBUFF151 - Shows [As Qh] (One pair, queens) 
+MBUFF151 Collects $1.84 from main pot
+*** SUMMARY ***
+Total Pot($1.93) | Rake ($0.09)
+Board [4c Qs 10d 8h 3d]
+Seat 1: MBUFF151 won Total ($1.84) HI:($1.84) with One pair, queens(ace kicker) [As Qh - B:Qs,P:Qh,P:As,B:10d,B:8h]
+Seat 2: GOLFPRO_420 HI:lost with One pair, queens [Qd 7d - B:Qs,P:Qd,B:10d,B:8h,P:7d]
+Seat 3: LADYTRUCKER69 Folded on the POCKET CARDS
+Seat 4: RAAV (dealer) Folded on the POCKET CARDS
+Seat 5: DANGER91 (small blind) Folded on the POCKET CARDS
+Seat 8: JNAIS (big blind) Folded on the POCKET CARDS

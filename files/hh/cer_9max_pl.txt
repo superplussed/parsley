@@ -1,0 +1,43 @@
+Stage #C446765861: Holdem Pot Limit $0.02  - 2011-04-13 16:34:15 (ET)
+Table: Knik Ave (Real Money) Seat #9 is the dealer
+Seat 9 - DEPRELAN ($2.06 in chips)
+Seat 1 - TERRAPIN7777 ($2.06 in chips)
+Seat 2 - NUTSCRACK333 ($0.94 in chips)
+Seat 4 - BIGSONNYT ($0.40 in chips)
+Seat 5 - ALLPOT4ME ($2.47 in chips)
+Seat 6 - OOOIIIOOO ($0.67 in chips)
+Seat 7 - VR1 ($0.81 in chips)
+Seat 8 - GOLFPRO_420 ($2 in chips)
+TERRAPIN7777 - Posts small blind $0.01
+NUTSCRACK333 - Posts big blind $0.02
+GOLFPRO_420 - Posts $0.02
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [2c 8s]
+BIGSONNYT - Calls $0.02
+ALLPOT4ME - Folds
+OOOIIIOOO - Folds
+VR1 - Folds
+GOLFPRO_420 - Checks
+DEPRELAN - Folds
+TERRAPIN7777 - Folds
+NUTSCRACK333 - Checks
+*** FLOP *** [Ks 8c 8h] 
+NUTSCRACK333 - Checks
+BIGSONNYT - Folds
+GOLFPRO_420 - Bets $0.02
+NUTSCRACK333 - Folds
+GOLFPRO_420 - returned ($0.02) : not called
+*** SHOW DOWN ***
+GOLFPRO_420 - Does not show
+GOLFPRO_420 Collects $0.07 from main pot
+*** SUMMARY ***
+Total Pot($0.07)
+Board [Ks 8c 8h]
+Seat 1: TERRAPIN7777 (small blind) Folded on the POCKET CARDS
+Seat 2: NUTSCRACK333 (big blind) Folded on the FLOP
+Seat 4: BIGSONNYT Folded on the FLOP
+Seat 5: ALLPOT4ME Folded on the POCKET CARDS
+Seat 6: OOOIIIOOO Folded on the POCKET CARDS
+Seat 7: VR1 Folded on the POCKET CARDS
+Seat 8: GOLFPRO_420 collected Total ($0.07) HI:($0.07)  [Does not show]
+Seat 9: DEPRELAN (dealer) Folded on the POCKET CARDS

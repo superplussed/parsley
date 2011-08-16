@@ -1,0 +1,28 @@
+Stage #C428383700: Holdem (1 on 1) No Limit $4  - 2011-03-29 16:35:11 (ET)
+Table: Rouge Rd (Real Money) Seat #6 is the dealer
+Seat 6 - GOLFPRO_420 ($406 in chips)
+Seat 4 - STEFFEKARLS ($354 in chips)
+GOLFPRO_420 - Posts small blind $2
+STEFFEKARLS - Posts big blind $4
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [Ac 6c]
+GOLFPRO_420 - Raises $10 to $12
+STEFFEKARLS - Calls $8
+*** FLOP *** [Kd Jc Js] 
+STEFFEKARLS - Checks
+GOLFPRO_420 - Checks
+*** TURN *** [Kd Jc Js] [6d]
+STEFFEKARLS - Checks
+GOLFPRO_420 - Checks
+*** RIVER *** [Kd Jc Js 6d] [9s]
+STEFFEKARLS - Bets $12
+GOLFPRO_420 - Calls $12
+*** SHOW DOWN ***
+STEFFEKARLS - Shows [Ks 2c] (Two Pair, kings and jacks) 
+GOLFPRO_420 - Mucks
+STEFFEKARLS Collects $47.50 from main pot
+*** SUMMARY ***
+Total Pot($48) | Rake ($0.50)
+Board [Kd Jc Js 6d 9s]
+Seat 4: STEFFEKARLS (big blind) won Total ($47.50) HI:($47.50) with Two Pair, kings and jacks [Ks 2c - P:Ks,B:Kd,B:Js,B:Jc,B:9s]
+Seat 6: GOLFPRO_420 (dealer) (small blind) HI: [Mucked] [Ac 6c]

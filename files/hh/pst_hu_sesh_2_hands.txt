@@ -1,0 +1,59 @@
+PokerStars Game #59890782578:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:33:05 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($300 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jc Js]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [5s Kd 9s]
+fightingnuns: checks 
+mascom: checks 
+*** TURN *** [5s Kd 9s] [Qc]
+fightingnuns: checks 
+mascom: bets $40
+fightingnuns: calls $40
+*** RIVER *** [5s Kd 9s Qc] [Qs]
+fightingnuns: checks 
+mascom: bets $100
+fightingnuns: calls $100
+*** SHOW DOWN ***
+mascom: shows [6c 8h] (a pair of Queens)
+fightingnuns: shows [Jc Js] (two pair, Queens and Jacks)
+fightingnuns collected $351.50 from pot
+*** SUMMARY ***
+Total pot $352 | Rake $0.50 
+Board [5s Kd 9s Qc Qs]
+Seat 1: fightingnuns (big blind) showed [Jc Js] and won ($351.50) with two pair, Queens and Jacks
+Seat 2: mascom (button) (small blind) showed [6c 8h] and lost with a pair of Queens
+
+
+
+PokerStars Game #59890838717:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:34:05 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($475.50 in chips) 
+Seat 2: mascom ($124 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [As Kc]
+fightingnuns: raises $12 to $18
+mascom: raises $36 to $54
+fightingnuns: raises $421.50 to $475.50 and is all-in
+mascom: calls $70 and is all-in
+Uncalled bet ($351.50) returned to fightingnuns
+*** FLOP *** [4s 7s 2c]
+*** TURN *** [4s 7s 2c] [Th]
+*** RIVER *** [4s 7s 2c Th] [Qc]
+*** SHOW DOWN ***
+mascom: shows [Ts Ks] (a pair of Tens)
+fightingnuns: shows [As Kc] (high card Ace)
+mascom collected $247.50 from pot
+*** SUMMARY ***
+Total pot $248 | Rake $0.50 
+Board [4s 7s 2c Th Qc]
+Seat 1: fightingnuns (button) (small blind) showed [As Kc] and lost with high card Ace
+Seat 2: mascom (big blind) showed [Ts Ks] and won ($247.50) with a pair of Tens

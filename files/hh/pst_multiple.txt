@@ -1,0 +1,114 @@
+﻿PokerStars Game #58790804032:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:05:31 ET
+Table 'Tjilaki XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($500 in chips) 
+mikel323: posts small blind $5
+fightingnuns: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h 5d]
+mikel323: raises $20 to $30
+fightingnuns: folds 
+Uncalled bet ($20) returned to mikel323
+mikel323 collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mikel323 (button) (small blind) collected ($20)
+
+
+
+PokerStars Game #58790810701:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:05:45 ET
+Table 'Tjilaki XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($510 in chips) 
+fightingnuns: posts small blind $5
+mikel323: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [7h 5d]
+fightingnuns: raises $10 to $20
+mikel323: raises $50 to $70
+fightingnuns: folds 
+Uncalled bet ($50) returned to mikel323
+mikel323 collected $40 from pot
+*** SUMMARY ***
+Total pot $40 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mikel323 (big blind) collected ($40)
+
+
+
+PokerStars Game #58790817735:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:05:59 ET
+Table 'Tjilaki XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($530 in chips) 
+mikel323: posts small blind $5
+fightingnuns: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [4h 9c]
+mikel323: raises $10 to $20
+fightingnuns: folds 
+Uncalled bet ($10) returned to mikel323
+mikel323 collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mikel323 (button) (small blind) collected ($20)
+
+
+
+PokerStars Game #58790822895:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:06:10 ET
+Table 'Tjilaki XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($540 in chips) 
+fightingnuns: posts small blind $5
+mikel323: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 4c]
+fightingnuns: raises $10 to $20
+mikel323: folds 
+Uncalled bet ($10) returned to fightingnuns
+fightingnuns collected $20 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($20)
+Seat 2: mikel323 (big blind) folded before Flop
+
+
+
+PokerStars Game #58790827575:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:06:20 ET
+Table 'Tjilaki XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($510 in chips) 
+Seat 2: mikel323 ($530 in chips) 
+mikel323: posts small blind $5
+fightingnuns: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc 2d]
+mikel323: raises $20 to $30
+fightingnuns: folds 
+Uncalled bet ($20) returned to mikel323
+mikel323 collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mikel323 (button) (small blind) collected ($20)
+
+
+
+PokerStars Game #58790832862:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:06:30 ET
+Table 'Tjilaki XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($540 in chips) 
+fightingnuns: posts small blind $5
+mikel323: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [9c 5c]
+fightingnuns: raises $10 to $20
+mikel323: folds 
+Uncalled bet ($10) returned to fightingnuns
+fightingnuns collected $20 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($20)
+Seat 2: mikel323 (big blind) folded before Flop

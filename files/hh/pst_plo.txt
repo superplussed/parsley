@@ -1,0 +1,27 @@
+PokerStars Game #60833903736:  Omaha Pot Limit ($0.05/$0.10 USD) - 2011/04/14 17:40:42 ET
+Table 'Sirene XI' 6-max Seat #3 is the button
+Seat 3: mwb84 ($19.67 in chips) 
+Seat 4: moilanen ($17.79 in chips) 
+Seat 5: fightingnuns ($6 in chips) 
+moilanen: posts small blind $0.05
+fightingnuns: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ts Qs 5s 5h]
+mwb84: raises $0.20 to $0.30
+moilanen: folds 
+fightingnuns: calls $0.20
+*** FLOP *** [9h 8s Jc]
+fightingnuns: checks 
+mwb84: checks 
+*** TURN *** [9h 8s Jc] [4c]
+fightingnuns: bets $0.40
+mwb84: folds 
+Uncalled bet ($0.40) returned to fightingnuns
+fightingnuns collected $0.62 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9h 8s Jc 4c]
+Seat 3: mwb84 (button) folded on the Turn
+Seat 4: moilanen (small blind) folded before Flop
+Seat 5: fightingnuns (big blind) collected ($0.62)

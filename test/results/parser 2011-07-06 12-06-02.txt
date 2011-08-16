@@ -1,0 +1,51 @@
+2011-07-06 12:06:02 -0400
+
+Thread ID: 2151955260
+Total: 0.078571
+
+ %self     total     self     wait    child    calls  name
+ 26.13      0.04     0.02     0.00     0.00        1  HandHistoryParser::Reader#initialize_site
+  9.01      0.01     0.01     0.00     0.00       22  HandHistoryParser::ParserForActionState#filter_matches
+  5.59      0.01     0.00     0.00     0.00      164  HandHistoryParser::ParserForState#match_line
+  4.94      0.03     0.00     0.00     0.03      208  HandHistoryParser::Reader#match_to_state
+  3.72      0.00     0.00     0.00     0.00      106  HandHistoryParser::BatchCollection#set_field
+  3.31      0.00     0.00     0.00     0.00      292  HandHistoryParser::ParserDefinition#lookup
+  3.26      0.00     0.00     0.00     0.00      211  Regexp#match
+  2.80      0.00     0.00     0.00     0.00      598  HandHistoryParser::ParserState#name
+  2.34      0.00     0.00     0.00     0.00      164  HandHistoryParser::ParserForState#initialize
+  2.19      0.00     0.00     0.00     0.00      164  HandHistoryParser::ParserState#update
+  1.93      0.03     0.00     0.00     0.02      164  HandHistoryParser::ParserForState#match
+  1.37      0.00     0.00     0.00     0.00      270  HandHistoryParser::ParserState#get_definition
+  1.35      0.00     0.00     0.00     0.00      208  HandHistoryParser::Reader#no_lookup
+  1.33      0.01     0.00     0.00     0.01       46  HandHistoryParser::ParserForState#insert_results
+  0.94      0.08     0.00     0.00     0.08        1  HandHistoryFile#read_from_file
+  0.79      0.00     0.00     0.00     0.00      106  HandHistoryParser::ParserState#criteria_exists?
+  0.77      0.04     0.00     0.00     0.03       52  HandHistoryParser::Reader#parse
+  0.65      0.08     0.00     0.00     0.08       52  HandHistoryParser::Reader#read
+  0.57      0.00     0.00     0.00     0.00      104  HandHistoryFile#line_has_text?
+  0.56      0.00     0.00     0.00     0.00       74  Regexp#initialize
+  0.44      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#load_json
+  0.37      0.00     0.00     0.00     0.00       53  HandHistoryParser::ParserForState#add_to_batch
+  0.31      0.00     0.00     0.00     0.00       52  HandHistoryParser::ParserState#reset
+  0.30      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#convert_match_attributes_to_symbol
+  0.27      0.00     0.00     0.00     0.00       27  HandHistoryParser::ParserForSeatsState#filter_matches
+  0.20      0.00     0.00     0.00     0.00       10  HandHistoryParser::ParserForState#format_money
+  0.19      0.00     0.00     0.00     0.00       22  HandHistoryParser::BatchCollection#get_field
+  0.11      0.00     0.00     0.00     0.00       10  Site#fields
+  0.11      0.00     0.00     0.00     0.00       13  HandHistoryParser::ParserForState#format_seat
+  0.11      0.00     0.00     0.00     0.00        2  HandHistoryParser::ParserForSummaryState#filter_matches
+  0.10      0.00     0.00     0.00     0.00        1  Site#get_file_name
+  0.08      0.00     0.00     0.00     0.00        2  File#initialize
+  0.06      0.00     0.00     0.00     0.00       15  HandHistoryParser::ParserForState#filter_matches
+  0.05      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserState#state=
+  0.05      0.00     0.00     0.00     0.00       17  HandHistoryParser::ParserState#next
+  0.03      0.00     0.00     0.00     0.00        1  ConditionVariable#signal
+  0.03      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserState#load_definitions
+  0.03      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#begin_state_index
+  0.03      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#build_states_list
+  0.02      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#initialize
+  0.02      0.00     0.00     0.00     0.00        1  HandHistoryParser::ParserDefinition#end_state_index
+  0.01      0.00     0.00     0.00     0.00        2  HandHistoryParser::ParserForSummaryState#insert_results
+  0.01      0.00     0.00     0.00     0.00        1  HandHistoryFile#get_access_string
+  0.01      0.00     0.00     0.00     0.00        1  HandHistoryFile#full_path
+  0.00      0.00     0.00     0.00     0.00        1  Thread#[]

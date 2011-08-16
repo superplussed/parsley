@@ -1,0 +1,44 @@
+Stage #C447254130: Holdem Normal $2/$4  - 2011-04-13 23:36:58 (ET)
+Table: Raymond Dr (Real Money) Seat #4 is the dealer
+Seat 4 - BOOOSH42 ($134.13 in chips)
+Seat 5 - LIMITCRUSHER ($120.50 in chips)
+Seat 6 - BLINKSUM ($118.25 in chips)
+Seat 1 - CLYDEJ99 ($67 in chips)
+Seat 2 - GOLFPRO_420 ($100 in chips)
+LIMITCRUSHER - Posts small blind $1
+BLINKSUM - Posts big blind $2
+GOLFPRO_420 - Posts $2
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [7s 7d]
+CLYDEJ99 - Raises $4 to $4
+GOLFPRO_420 - Calls $2
+BOOOSH42 - Raises $6 to $6
+LIMITCRUSHER - Folds
+BLINKSUM - Folds
+CLYDEJ99 - Raises $4 to $8
+GOLFPRO_420 - Calls $4
+BOOOSH42 - Calls $2
+*** FLOP *** [4d Kh 9c] 
+CLYDEJ99 - Bets $2
+GOLFPRO_420 - Calls $2
+BOOOSH42 - Calls $2
+*** TURN *** [4d Kh 9c] [5s]
+CLYDEJ99 - Checks
+GOLFPRO_420 - Checks
+BOOOSH42 - Checks
+*** RIVER *** [4d Kh 9c 5s] [4h]
+CLYDEJ99 - Bets $4
+GOLFPRO_420 - Calls $4
+BOOOSH42 - Folds
+*** SHOW DOWN ***
+CLYDEJ99 - Shows [As Jc] (One pair, fours) 
+GOLFPRO_420 - Shows [7s 7d] (Two Pair, sevens and fours) 
+GOLFPRO_420 Collects $39 from main pot
+*** SUMMARY ***
+Total Pot($41) | Rake ($2)
+Board [4d Kh 9c 5s 4h]
+Seat 1: CLYDEJ99 HI:lost with One pair, fours [As Jc - B:4h,B:4d,P:As,B:Kh,P:Jc]
+Seat 2: GOLFPRO_420 won Total ($39) HI:($39) with Two Pair, sevens and fours [7s 7d - P:7s,P:7d,B:4h,B:4d,B:Kh]
+Seat 4: BOOOSH42 (dealer) Folded on the RIVER
+Seat 5: LIMITCRUSHER (small blind) Folded on the POCKET CARDS
+Seat 6: BLINKSUM (big blind) Folded on the POCKET CARDS

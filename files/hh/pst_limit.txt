@@ -1,0 +1,32 @@
+PokerStars Game #60392573461:  Hold'em Limit ($2/$4 USD) - 2011/04/05 18:48:28 ET
+Table 'Cybele VIII' 2-max Seat #1 is the button
+Seat 1: ZARdes ($119.55 in chips) 
+Seat 2: bryan00nl ($125.55 in chips) 
+ZARdes: posts small blind $1
+bryan00nl: posts big blind $2
+*** HOLE CARDS ***
+ZARdes: raises $2 to $4
+bryan00nl: calls $2
+*** FLOP *** [Qs Js 3s]
+bryan00nl: checks 
+ZARdes: bets $2
+bryan00nl: raises $2 to $4
+ZARdes: raises $2 to $6
+bryan00nl: raises $2 to $8
+Betting is capped
+ZARdes: calls $2
+*** TURN *** [Qs Js 3s] [8h]
+bryan00nl: checks 
+ZARdes: checks 
+*** RIVER *** [Qs Js 3s 8h] [2h]
+bryan00nl: checks 
+ZARdes: bets $4
+bryan00nl: folds 
+Uncalled bet ($4) returned to ZARdes
+ZARdes collected $23.50 from pot
+ZARdes: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qs Js 3s 8h 2h]
+Seat 1: ZARdes (button) (small blind) collected ($23.50)
+Seat 2: bryan00nl (big blind) folded on the River

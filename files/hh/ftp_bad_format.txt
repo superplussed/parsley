@@ -1,0 +1,79 @@
+Full Tilt Poker Game #27
+$2/$4 - No Limit Hold'em - 23:35:10 ET - 2011/02/02
+Seat 1: minbuy donkey ($80)
+Seat 2: salldun ($84.85), is sitting out
+Seat 3: johnboy2034 ($121.90)
+Seat 4: fightingnuns ($170)
+Seat 5: jamin786 ($74)
+Seat 6: binderK ($160)
+binderK posts the small blind of $2
+minbuy donkey posts the big blind of $4
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to fightingnuns [9d 9s]
+johnboy2034 folds
+salldun has returned
+fightingnuns raises to $8
+jamin786 calls $8
+binderK folds
+binderK adds $2
+minbuy donkey calls $4
+*** FLOP *** [4c Ad 5c]
+minbuy donkey checks
+fightingnuns checks
+jamin786 checks
+*** TURN *** [4c Ad 5c] [6s]
+minbuy donkey checks
+fightingnuns checks
+jamin786 has 15 seconds left to act
+jamin786 bets $8
+minbuy donkey folds
+fightingnuns calls $8
+*** RIVER *** [4c Ad 5c 6s] [2d]
+fightingnuns checks
+jamin786 bets $18
+fightingnuns folds
+fightingnuns adds $6
+Uncalled bet of $18 returned to jamin786
+jamin786 mucks
+jamin786 wins the pot ($39.90)
+*** SUMMARY ***
+Total pot $42 | Rake $2.10
+Board: [4c Ad 5c 6s 2d]
+Seat 1: minbuy donkey (big blind) folded on the Turn
+Seat 2: salldun is sitting out
+Seat 3: johnboy2034 didn't bet (folded)
+Seat 4: fightingnuns folded on the River
+Seat 5: jamin786 (button) collected ($39.90), mucked
+Seat 6: binderK (small blind) folded before the Flop
+
+Full Tilt Poker Game #28992848022: Table Palmares (heads up) - $3/$6 - No Limit Hold'em - 15:25:25 ET - 2011/03/13
+Seat 1: fightingnuns ($638.50)
+Seat 2: zork7777 ($181)
+zork7777 posts the small blind of $3
+fightingnuns posts the big blind of $6
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to fightingnuns [As Qd]
+zork7777 calls $3
+fightingnuns raises to $24
+zork7777 calls $18
+*** FLOP *** [Ad Jd 4h]
+fightingnuns bets $30
+zork7777 raises to $60
+fightingnuns calls $30
+*** TURN *** [Ad Jd 4h] [Td]
+fightingnuns checks
+zork7777 bets $97, and is all in
+fightingnuns calls $97
+zork7777 shows [Jh 9d]
+fightingnuns shows [As Qd]
+*** RIVER *** [Ad Jd 4h Td] [2s]
+zork7777 shows a pair of Jacks
+fightingnuns shows a pair of Aces
+fightingnuns wins the pot ($361.50) with a pair of Aces
+*** SUMMARY ***
+Total pot $362 | Rake $0.50
+Board: [Ad Jd 4h Td 2s]
+Seat 1: fightingnuns (big blind) showed [As Qd] and won ($361.50) with a pair of Aces
+Seat 2: zork7777 (small blind) showed [Jh 9d] and lost with a pair of Jacks

@@ -1,0 +1,61 @@
+{ 
+	"site" : "PokerStars",
+	"version" : "current",
+	"type" : "cash",
+	"action_subs" : ["(?<player_id>.*): (?<action>checks|folds)$",
+						"(?<player_id>.*): (?<action>bets|calls|raises.*) \\$(?<wager>.*)"],
+	"summary_header" : "*** SUMMARY ***",
+	"state_after_summary" : "rake",
+	"begin_state_list" : "",
+	"header1" : {
+		"regex" : ["PokerStars Game #(?<hand_id>\\d+):\\s(?<game_type>.+) \\(\\$(?<small_blind>.+)\/\\$(?<big_blind>.+) (?<currency>.+)\\) - (?<date_played>..........) (?<time_played>.*)"],
+		"match" : "once" },
+	"header2" : {
+		"regex" : ["Table '(?<table_name>.+)' (?<table_max>.+) Seat #(?<button>\\d) is the button"],
+		"match" : "once"}, 
+	"seats" : {
+		"regex" : ["Seat (?<seat_num>\\d): (?<player_id>.*) \\(\\$(?<stack>.*)\\ in chips\\)"] },
+	"sb" : {
+		"regex" : [".+ posts small blind .+"],
+		"match" : "once" },
+	"bb" : {
+		"regex" : [".+ posts big blind .+"],
+		"match" : "once" },
+	"posts" : {
+		"regex" : [".+ posts .+"] },
+	"holecards_header" : {
+		"regex" : ["\\*\\*\\* HOLE CARDS \\*\\*\\*"],
+		"match" : "once" },
+	"holecards" : {
+		"regex" : ["Dealt to .+ \\[(?<hero_hole_cards>.+)\\]"],
+		"match" : "once" },
+	"action_preflop" : {
+		"regex" : ["(?<action_preflop>.+)"] },
+	"cards_flop" : {
+		"regex" : ["\\*\\*\\* FLOP .*"],
+		"match" : "once"},
+	"action_flop" : {
+		"regex" : ["(?<action_flop>.+)"] },
+	"cards_turn" : {
+		"regex" : ["\\*\\*\\* TURN .*"],
+		"match" : "once" },
+	"action_turn" : {
+		"regex" : ["(?<action_turn>.+)"] },
+	"cards_river" : {
+		"regex" : ["\\*\\*\\* RIVER .*"],
+		"match" : "once" },
+	"action_river" : {
+		"regex" : ["(?<action_river>.+)"] },
+	"rake" : {
+		"regex" : ["\\| Rake \\$(?<rake>.+)"],
+		"match" : "once" },
+	"board" : {
+		"regex" : ["Board \\[(?<board>.*)\\]"],
+		"match" : "once"},
+	"summary" : {
+		"regex" : ["Seat (?<seat_num>\\d).+ \\[(?<hole_cards>\\w[hdsc] \\w[hdsc]).+ \\(\\$(?<result>.+)\\)",
+							"Seat (?<seat_num>\\d).+ \\[(?<hole_cards>\\w[hdsc] \\w[hdsc])",
+							"Seat (?<seat_num>\\d).+ \\(\\$(?<result>.+)\\)",
+							"(.+)"]
+	}	
+}

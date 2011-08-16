@@ -1,0 +1,82 @@
+Full Tilt Poker Game #28992812628: Table Palmares (heads up) - $3/$6 - No Limit Hold'em - 15:24:27 ET - 2011/03/13
+Seat 1: fightingnuns ($600)
+Seat 2: zork7777 ($220)
+fightingnuns has 5 seconds left to act
+fightingnuns posts the small blind of $3
+zork7777 posts the big blind of $6
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qs 7s]
+fightingnuns raises to $12
+zork7777 raises to $18
+fightingnuns calls $6
+*** FLOP *** [9s 6h 7d]
+zork7777 bets $21
+fightingnuns calls $21
+*** TURN *** [9s 6h 7d] [3s]
+zork7777 checks
+fightingnuns bets $45
+zork7777 has 15 seconds left to act
+zork7777 folds
+Uncalled bet of $45 returned to fightingnuns
+fightingnuns mucks
+fightingnuns wins the pot ($77.50)
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board: [9s 6h 7d 3s]
+Seat 1: fightingnuns (small blind) collected ($77.50), mucked
+Seat 2: zork7777 (big blind) folded on the Turn
+
+
+
+
+PokerStars Game #58790804032:  Hold'em No Limit ($5/$10 USD) - 2011/03/06 23:05:31 ET
+Table 'Tjilaki XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($500 in chips) 
+Seat 2: mikel323 ($500 in chips) 
+mikel323: posts small blind $5
+fightingnuns: posts big blind $10
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h 5d]
+mikel323: raises $20 to $30
+fightingnuns: folds 
+Uncalled bet ($20) returned to mikel323
+mikel323 collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mikel323 (button) (small blind) collected ($20)
+
+
+
+Stage #C422613247: Holdem (1 on 1) No Limit $6  - 2011-03-24 22:48:40 (ET)
+Table: Trisha Ave (Real Money) Seat #6 is the dealer
+Seat 6 - GOLFPRO_420 ($608.25 in chips)
+Seat 4 - CMARK120 ($291 in chips)
+GOLFPRO_420 - Posts small blind $3
+CMARK120 - Posts big blind $6
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [9s 5c]
+GOLFPRO_420 - Raises $9 to $12
+CMARK120 - Calls $6
+*** FLOP *** [8h 5h 5s] 
+CMARK120 - Checks
+GOLFPRO_420 - Bets $18
+CMARK120 - Calls $18
+*** TURN *** [8h 5h 5s] [10d]
+CMARK120 - Checks
+GOLFPRO_420 - Bets $42
+CMARK120 - Calls $42
+*** RIVER *** [8h 5h 5s 10d] [4d]
+CMARK120 - Checks
+GOLFPRO_420 - Bets $98
+CMARK120 - Folds
+GOLFPRO_420 - returned ($98) : not called
+*** SHOW DOWN ***
+GOLFPRO_420 - Does not show
+GOLFPRO_420 Collects $143.25 from main pot
+*** SUMMARY ***
+Total Pot($144) | Rake ($0.75)
+Board [8h 5h 5s 10d 4d]
+Seat 4: CMARK120 (big blind) Folded on the RIVER
+Seat 6: GOLFPRO_420 (dealer) (small blind) collected Total ($143.25) HI:($143.25)  [Does not show]

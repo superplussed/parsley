@@ -1,0 +1,19 @@
+Stage #C447244602: Omaha Pot Limit $0.25  - 2011-04-13 23:28:49 (ET)
+Table: Amarillo (Real Money) Seat #4 is the dealer
+Seat 4 - MICAHDOWNS ($25.25 in chips)
+Seat 1 - JUSTINZEEPRO ($25 in chips)
+Seat 3 - GOLFPRO_420 ($25 in chips)
+JUSTINZEEPRO - Posts small blind $0.10
+GOLFPRO_420 - Posts big blind $0.25
+*** POCKET CARDS ***
+Dealt to GOLFPRO_420 [Ah 6d 3c 10d]
+MICAHDOWNS - Folds
+JUSTINZEEPRO - Folds
+*** SHOW DOWN ***
+GOLFPRO_420 - Does not show
+GOLFPRO_420 Collects $0.35 from main pot
+*** SUMMARY ***
+Total Pot($0.35)
+Seat 1: JUSTINZEEPRO (small blind) Folded on the POCKET CARDS
+Seat 3: GOLFPRO_420 (big blind) collected Total ($0.35) 
+Seat 4: MICAHDOWNS (dealer) Folded on the POCKET CARDS

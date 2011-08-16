@@ -1,0 +1,43 @@
+module RubyProf
+	def self.end params={}
+		result = RubyProf.stop
+		if params[:hide_rails]
+			result.eliminate_methods!([/Kernel/])
+			result.eliminate_methods!([/Array/])
+			result.eliminate_methods!([/Hash/])
+			result.eliminate_methods!([/Integer/])
+			result.eliminate_methods!([/Enumerable/])
+			result.eliminate_methods!([/Class/])
+			result.eliminate_methods!([/String/])
+			result.eliminate_methods!([/Fixnum/])
+			result.eliminate_methods!([/Symbol/])
+			result.eliminate_methods!([/ActiveSupport/])
+			result.eliminate_methods!([/Module/])
+			result.eliminate_methods!([/Float/])
+			result.eliminate_methods!([/Set/])
+			result.eliminate_methods!([/Enumerator/])
+			result.eliminate_methods!([/BasicObject/])
+			result.eliminate_methods!([/Exception/])
+			result.eliminate_methods!([/Object/])
+			result.eliminate_methods!([/NameError/])
+			result.eliminate_methods!([/IO/])
+			result.eliminate_methods!([/Mongo/])
+			result.eliminate_methods!([/Mongoid/])
+			result.eliminate_methods!([/BSON/])
+			result.eliminate_methods!([/BasicSocket/])
+			result.eliminate_methods!([/Mutex/])
+			result.eliminate_methods!([/Rational/])
+			result.eliminate_methods!([/MatchData/])
+			result.eliminate_methods!([/ActiveModel/])
+			result.eliminate_methods!([/Numeric/])
+			result.eliminate_methods!([/Bignum/])
+			result.eliminate_methods!([/Comparable/])
+			result.eliminate_methods!([/Yajl/])
+			result.eliminate_methods!([/Range/])
+			result.eliminate_methods!([/Redis/])
+			result.eliminate_methods!([/MonitorMixin/])
+		end
+		printer = RubyProf::MultiPrinter.new(result)
+		printer.print(:path => File.join(File.dirname(__FILE__), "../../test/ruby_prof"), :profile => "profile")
+	end
+end

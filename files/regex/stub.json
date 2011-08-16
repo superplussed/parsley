@@ -1,0 +1,78 @@
+{ 
+	"site" : "Stub",
+	"version" : "current",
+	"type" : "cash",
+	"action_subs" : [[": bets \\$", "B"],
+						[": folds$", "F"],
+						[": calls \\$", "C"],
+						[": raises \\$\\d+\\.*\\d* to \\$", "R"]],
+	"throwaway" : [".+ is sitting out\\z",
+						".+ sits out\\z"],
+	"begin_state_list" : "",
+	"header1" : {
+		"regex" : ["PokerStars Game #(?<hand_id>\\d+):\\s(?<game_type>.+) \\(\\$(?<small_blind>.+)\/\\$(?<big_blind>.+) (?<currency>.+)\\) - (?<date_played>..........) (?<time_played>.*)"],
+		"match" : "once" },
+	"header2" : {
+		"regex" : ["Table '(?<table_name>.+)' (?<table_max>.+) Seat #(?<button_is_seat_num>\\d) is the button"],
+		"match" : "once"}, 
+	"seats" : {
+		"regex" : ["Seat (?<seat_num>\\d): (?<player_ids>.*) \\(\\$(?<stacks>.*)\\ in chips\\)"],
+		"match" : "sb" },
+	"sb" : {
+		"regex" : [".+ posts small blind .+"],
+		"match" : "once" },
+	"bb" : {
+		"regex" : [".+ posts big blind .+"],
+		"match" : "once" },
+	"posts" : {
+		"regex" : [".+ posts .+"],
+		"match" : "holecards_header",
+		"optional" : "true" },
+	"holecards_header" : {
+		"regex" : [".+ HOLE CARDS .+"],
+		"match" : "once" },
+	"holecards" : {
+		"regex" : ["Dealt to .+ \\[(?<hero_hole_cards>.+)\\]"],
+		"match" : "once",
+		"optional" : "true" },
+	"action_preflop" : {
+		"regex" : ["(?<action_preflop>.+)"],
+		"match" : "cards_flop"},
+	"cards_flop" : {
+		"regex" : ["\\*\\*\\* FLOP \\*\\*\\* \\[(?<cards_flop>.+)\\]"],
+		"match" : "once"},
+	"action_flop" : {
+		"regex" : ["(?<action_flop>.+)"],
+		"match" : "cards_turn"},
+	"cards_turn" : {
+		"regex" : ["\\*\\*\\* TURN \\*\\*\\* \\[.+\\] \\[(?<cards_turn>.+)\\]"],
+		"match" : "once" },
+	"action_turn" : {
+		"regex" : ["(?<action_turn>.+)"],
+		"match" : "cards_river"},
+	"cards_river" : {
+		"regex" : ["\\*\\*\\* RIVER \\*\\*\\* \\[.+\\] \\[(?<cards_river>.+)\\]"],
+		"match" : "" },
+	"action_river" : {
+		"regex" : ["(?<action_river>.+)"],
+		"match" : "summary_header"},
+	"summary_header" : {
+		"regex" : ["\\*\\*\\* SUMMARY \\*\\*\\*"],
+		"match" : "once" }, 
+	"rake" : {
+		"regex" : ["\\| Rake \\$(?<rake>.+)"],
+		"match" : "once" },
+	"board" : {
+		"regex" : ["Board"],
+		"match" : "once",
+		"optional" : "true" },
+	"summary" : {
+		"regex" : ["Seat (?<seat_num>\\d).+ \\[(?<hole_cards>\\w[hdsc] \\w[hdsc]).+ \\(\\$(?<results>.+)\\)",
+							"Seat (?<seat_num>\\d).+ \\[(?<hole_cards>\\w[hdsc] \\w[hdsc])",
+							"Seat (?<seat_num>\\d).+ \\(\\$(?<results>.+)\\)"],
+		"optional" : "true",
+		"match" : "end" },
+	"end" : {
+		"regex" : ["unmatchable string"]
+	}	
+}

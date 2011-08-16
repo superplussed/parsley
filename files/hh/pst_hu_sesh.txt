@@ -1,0 +1,2925 @@
+PokerStars Game #59890863015:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:34:31 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($351.50 in chips) 
+Seat 2: mascom ($247.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qs 6s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+PokerStars Game #59890782578:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:33:05 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($300 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jc Js]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [5s Kd 9s]
+fightingnuns: checks 
+mascom: checks 
+*** TURN *** [5s Kd 9s] [Qc]
+fightingnuns: checks 
+mascom: bets $40
+fightingnuns: calls $40
+*** RIVER *** [5s Kd 9s Qc] [Qs]
+fightingnuns: checks 
+mascom: bets $100
+fightingnuns: calls $100
+*** SHOW DOWN ***
+mascom: shows [6c 8h] (a pair of Queens)
+fightingnuns: shows [Jc Js] (two pair, Queens and Jacks)
+fightingnuns collected $351.50 from pot
+*** SUMMARY ***
+Total pot $352 | Rake $0.50 
+Board [5s Kd 9s Qc Qs]
+Seat 1: fightingnuns (big blind) showed [Jc Js] and won ($351.50) with two pair, Queens and Jacks
+Seat 2: mascom (button) (small blind) showed [6c 8h] and lost with a pair of Queens
+
+
+
+PokerStars Game #59890838717:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:34:05 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($475.50 in chips) 
+Seat 2: mascom ($124 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [As Kc]
+fightingnuns: raises $12 to $18
+mascom: raises $36 to $54
+fightingnuns: raises $421.50 to $475.50 and is all-in
+mascom: calls $70 and is all-in
+Uncalled bet ($351.50) returned to fightingnuns
+*** FLOP *** [4s 7s 2c]
+*** TURN *** [4s 7s 2c] [Th]
+*** RIVER *** [4s 7s 2c Th] [Qc]
+*** SHOW DOWN ***
+mascom: shows [Ts Ks] (a pair of Tens)
+fightingnuns: shows [As Kc] (high card Ace)
+mascom collected $247.50 from pot
+*** SUMMARY ***
+Total pot $248 | Rake $0.50 
+Board [4s 7s 2c Th Qc]
+Seat 1: fightingnuns (button) (small blind) showed [As Kc] and lost with high card Ace
+Seat 2: mascom (big blind) showed [Ts Ks] and won ($247.50) with a pair of Tens
+
+
+
+PokerStars Game #59890870468:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:34:39 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($345.50 in chips) 
+Seat 2: mascom ($253.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Th 8d]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59890884525:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:34:54 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($333.50 in chips) 
+Seat 2: mascom ($265.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7h Tc]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59890894319:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:04 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($327.50 in chips) 
+Seat 2: mascom ($271.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3h 9c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59890902963:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:13 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($324.50 in chips) 
+Seat 2: mascom ($274.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5c Kd]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59890910834:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:22 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($318.50 in chips) 
+Seat 2: mascom ($280.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jd 4d]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59890922996:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:35 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($306.50 in chips) 
+Seat 2: mascom ($292.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3s 9c]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59890933731:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:46 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300.50 in chips) 
+Seat 2: mascom ($298.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd 6h]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59890940008:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:35:53 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($301.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd Js]
+mascom: folds 
+Uncalled bet ($3) returned to fightingnuns
+fightingnuns collected $6 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($6)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59890948983:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:36:03 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($303 in chips) 
+Seat 2: mascom ($298.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7c Qh]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59890967761:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:36:23 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($310.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4c 8s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59890976932:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:36:32 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($316.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8s Kc]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59890985730:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:36:42 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($306 in chips) 
+Seat 2: mascom ($310.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5c Ac]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [7d 2d 3h]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [7d 2d 3h] [8s]
+fightingnuns: checks 
+mascom: bets $33
+fightingnuns: folds 
+Uncalled bet ($33) returned to mascom
+mascom collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [7d 2d 3h 8s]
+Seat 1: fightingnuns (big blind) folded on the Turn
+Seat 2: mascom (button) (small blind) collected ($47.50)
+
+
+
+PokerStars Game #59891024617:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:37:23 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($334 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc Qd]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [9s 3d 3h]
+mascom: bets $12
+fightingnuns: raises $18 to $30
+mascom: folds 
+Uncalled bet ($18) returned to fightingnuns
+fightingnuns collected $47.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [9s 3d 3h]
+Seat 1: fightingnuns (button) (small blind) collected ($47.50)
+Seat 2: mascom (big blind) folded on the Flop
+
+
+
+PokerStars Game #59891050051:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:37:50 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($323.50 in chips) 
+Seat 2: mascom ($310 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 9h]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [Tc 8c 7h]
+fightingnuns: bets $18
+mascom: calls $18
+*** TURN *** [Tc 8c 7h] [As]
+fightingnuns: checks 
+mascom: bets $33
+fightingnuns: folds 
+Uncalled bet ($33) returned to mascom
+mascom collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [Tc 8c 7h As]
+Seat 1: fightingnuns (big blind) folded on the Turn
+Seat 2: mascom (button) (small blind) collected ($59.50)
+
+
+
+PokerStars Game #59891080329:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:38:23 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($339.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ad 8s]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59891087711:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:38:31 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($306 in chips) 
+Seat 2: mascom ($333.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5h Ks]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891105502:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:38:50 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($339.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2s 3c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891112976:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:38:58 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($342.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9c 5d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891129785:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:39:16 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($348.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7h Ah]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59891137653:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:39:25 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($306 in chips) 
+Seat 2: mascom ($342.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3s 5s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891148510:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:39:37 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($348.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9c 5h]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891153945:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:39:42 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($300 in chips) 
+Seat 2: mascom ($351.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3d Ad]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [9h Kc Ah]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [9h Kc Ah] [2c]
+fightingnuns: checks 
+mascom: checks 
+*** RIVER *** [9h Kc Ah 2c] [7s]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [3d Ad] (a pair of Aces)
+mascom: mucks hand 
+fightingnuns collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [9h Kc Ah 2c 7s]
+Seat 1: fightingnuns (big blind) showed [3d Ad] and won ($47.50) with a pair of Aces
+Seat 2: mascom (button) (small blind) mucked [Qc Js]
+
+
+
+PokerStars Game #59891185379:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:40:16 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($323.50 in chips) 
+Seat 2: mascom ($327.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5h Ks]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [Ac Qh 7h]
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ac Qh 7h]
+Seat 1: fightingnuns (button) (small blind) folded on the Flop
+Seat 2: mascom (big blind) collected ($23.50)
+
+
+
+PokerStars Game #59891206073:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:40:38 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($311.50 in chips) 
+Seat 2: mascom ($339 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7s Kh]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [2h 5c 3h]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [2h 5c 3h] [Qs]
+fightingnuns: checks 
+mascom: bets $33
+fightingnuns: raises $63 to $96
+mascom: folds 
+Uncalled bet ($63) returned to fightingnuns
+fightingnuns collected $113.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $114 | Rake $0.50 
+Board [2h 5c 3h Qs]
+Seat 1: fightingnuns (big blind) collected ($113.50)
+Seat 2: mascom (button) (small blind) folded on the Turn
+
+
+
+PokerStars Game #59891239512:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:41:13 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($368 in chips) 
+Seat 2: mascom ($282 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3h Ad]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59891246829:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:41:21 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($374 in chips) 
+Seat 2: mascom ($276 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ah As]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [5h Ad Jh]
+fightingnuns: checks 
+mascom: bets $25
+fightingnuns: calls $25
+*** TURN *** [5h Ad Jh] [Kc]
+fightingnuns: bets $54
+mascom: folds 
+Uncalled bet ($54) returned to fightingnuns
+fightingnuns collected $121.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $122 | Rake $0.50 
+Board [5h Ad Jh Kc]
+Seat 1: fightingnuns (big blind) collected ($121.50)
+Seat 2: mascom (button) (small blind) folded on the Turn
+
+
+
+PokerStars Game #59891290314:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:08 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($434.50 in chips) 
+Seat 2: mascom ($215 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 7d]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59891300545:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:19 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($440.50 in chips) 
+Seat 2: mascom ($209 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ah 7d]
+mascom: folds 
+Uncalled bet ($3) returned to fightingnuns
+fightingnuns collected $6 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($6)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59891307707:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:26 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($443.50 in chips) 
+Seat 2: mascom ($206 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5s 7c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891313281:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:32 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($440.50 in chips) 
+Seat 2: mascom ($209 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2c Qs]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891323759:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:43 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($434.50 in chips) 
+Seat 2: mascom ($215 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Th 4d]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891329296:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:42:49 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($431.50 in chips) 
+Seat 2: mascom ($218 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3h 8h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891338764:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:43:00 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($425.50 in chips) 
+Seat 2: mascom ($224 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2h 3c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891344684:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:43:06 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($422.50 in chips) 
+Seat 2: mascom ($227 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc Th]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: folds 
+Uncalled bet ($24) returned to fightingnuns
+fightingnuns collected $24 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($24)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59891366588:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:43:29 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($434.50 in chips) 
+Seat 2: mascom ($215 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd 2d]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [7h As 3h]
+mascom: bets $12
+fightingnuns: raises $24 to $36
+mascom: raises $63 to $99
+fightingnuns: folds 
+Uncalled bet ($63) returned to mascom
+mascom collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50 
+Board [7h As 3h]
+Seat 1: fightingnuns (button) (small blind) folded on the Flop
+Seat 2: mascom (big blind) collected ($95.50)
+
+
+
+PokerStars Game #59891396300:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:44:01 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($386.50 in chips) 
+Seat 2: mascom ($262.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3s As]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [3c Jh 8d]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [3c Jh 8d] [4h]
+fightingnuns: checks 
+mascom: bets $25
+fightingnuns: calls $25
+*** RIVER *** [3c Jh 8d 4h] [3h]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [3s As] (three of a kind, Threes)
+mascom: mucks hand 
+fightingnuns collected $97.50 from pot
+*** SUMMARY ***
+Total pot $98 | Rake $0.50 
+Board [3c Jh 8d 4h 3h]
+Seat 1: fightingnuns (big blind) showed [3s As] and won ($97.50) with three of a kind, Threes
+Seat 2: mascom (button) (small blind) mucked [Kc 8c]
+
+
+
+PokerStars Game #59891431916:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:44:39 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($435 in chips) 
+Seat 2: mascom ($213.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 3h]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59891444223:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:44:52 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($441 in chips) 
+Seat 2: mascom ($207.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h Td]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [4c Qh 7d]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4c Qh 7d]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59891461290:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:45:09 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($429 in chips) 
+Seat 2: mascom ($219 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2d Kd]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [4h Qs 8s]
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4h Qs 8s]
+Seat 1: fightingnuns (button) (small blind) folded on the Flop
+Seat 2: mascom (big blind) collected ($23.50)
+
+
+
+PokerStars Game #59891477054:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:45:26 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($417 in chips) 
+Seat 2: mascom ($230.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8s Ac]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [3s 4c Js]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [3s 4c Js] [8c]
+fightingnuns: checks 
+mascom: bets $33
+fightingnuns: calls $33
+*** RIVER *** [3s 4c Js 8c] [Jh]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [8s Ac] (two pair, Jacks and Eights)
+mascom: mucks hand 
+fightingnuns collected $113.50 from pot
+*** SUMMARY ***
+Total pot $114 | Rake $0.50 
+Board [3s 4c Js 8c Jh]
+Seat 1: fightingnuns (big blind) showed [8s Ac] and won ($113.50) with two pair, Jacks and Eights
+Seat 2: mascom (button) (small blind) mucked [3d As]
+
+
+
+PokerStars Game #59891516482:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:46:08 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($473.50 in chips) 
+Seat 2: mascom ($173.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6d Th]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891523342:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:46:15 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($470.50 in chips) 
+Seat 2: mascom ($176.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4h Td]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891531885:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:46:24 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($464.50 in chips) 
+Seat 2: mascom ($182.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3h Ts]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891537306:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:46:30 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($461.50 in chips) 
+Seat 2: mascom ($185.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Th Td]
+mascom: raises $6 to $12
+mascom said, "youre a suckout machine"
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [Tc Ks 9c]
+fightingnuns: bets $36
+mascom: raises $113.50 to $149.50 and is all-in
+fightingnuns: calls $113.50
+*** TURN *** [Tc Ks 9c] [5s]
+*** RIVER *** [Tc Ks 9c 5s] [As]
+*** SHOW DOWN ***
+fightingnuns: shows [Th Td] (three of a kind, Tens)
+mascom: shows [Kd Js] (a pair of Kings)
+fightingnuns collected $370.50 from pot
+*** SUMMARY ***
+Total pot $371 | Rake $0.50 
+Board [Tc Ks 9c 5s As]
+Seat 1: fightingnuns (big blind) showed [Th Td] and won ($370.50) with three of a kind, Tens
+Seat 2: mascom (button) (small blind) showed [Kd Js] and lost with a pair of Kings
+
+
+
+PokerStars Game #59891605525:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:47:41 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($646.50 in chips) 
+Seat 2: mascom ($300 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd 2c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891612107:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:47:48 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($643.50 in chips) 
+Seat 2: mascom ($303 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8c 4d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891620569:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:47:57 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($637.50 in chips) 
+Seat 2: mascom ($309 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc 7d]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [Kd Jd 6d]
+mascom: bets $20
+fightingnuns: folds 
+Uncalled bet ($20) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kd Jd 6d]
+Seat 1: fightingnuns (button) (small blind) folded on the Flop
+Seat 2: mascom (big blind) collected ($23.50)
+
+
+
+PokerStars Game #59891638357:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:48:16 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($625.50 in chips) 
+Seat 2: mascom ($320.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6d Ac]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [3s Tc Js]
+fightingnuns: checks 
+mascom: bets $20
+fightingnuns: folds 
+Uncalled bet ($20) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s Tc Js]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59891659715:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:48:38 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($613.50 in chips) 
+Seat 2: mascom ($332 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8c Qs]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [7c 8d 3h]
+mascom: checks 
+fightingnuns: bets $18
+mascom: folds 
+Uncalled bet ($18) returned to fightingnuns
+fightingnuns collected $23.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7c 8d 3h]
+Seat 1: fightingnuns (button) (small blind) collected ($23.50)
+Seat 2: mascom (big blind) folded on the Flop
+
+
+
+PokerStars Game #59891684940:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:49:05 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($625 in chips) 
+Seat 2: mascom ($320 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3h 7h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891695461:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:49:16 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($619 in chips) 
+Seat 2: mascom ($326 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2d 8h]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891701726:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:49:23 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($616 in chips) 
+Seat 2: mascom ($329 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7c Th]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59891711102:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:49:33 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($610 in chips) 
+Seat 2: mascom ($335 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Td 6d]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59891724299:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:49:47 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($598 in chips) 
+Seat 2: mascom ($347 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Tc 7c]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [5c Kh 2d]
+fightingnuns: checks 
+mascom: bets $20
+fightingnuns: folds 
+Uncalled bet ($20) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [5c Kh 2d]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59891742841:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:50:07 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($586 in chips) 
+Seat 2: mascom ($358.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ah 4s]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59891756304:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:50:21 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($574 in chips) 
+Seat 2: mascom ($370.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc 3c]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [6s Kh 5h]
+fightingnuns: checks 
+mascom: bets $20
+fightingnuns: folds 
+Uncalled bet ($20) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6s Kh 5h]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59891772727:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:50:38 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($562 in chips) 
+Seat 2: mascom ($382 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6s 8s]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59891788840:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:50:55 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($550 in chips) 
+Seat 2: mascom ($394 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd 9d]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [6h 5d 3d]
+fightingnuns: checks 
+mascom: bets $55
+fightingnuns: raises $459 to $514 and is all-in
+mascom: folds 
+Uncalled bet ($459) returned to fightingnuns
+fightingnuns collected $181.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $182 | Rake $0.50 
+Board [6h 5d 3d]
+Seat 1: fightingnuns (big blind) collected ($181.50)
+Seat 2: mascom (button) (small blind) folded on the Flop
+
+
+
+PokerStars Game #59891835002:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:51:44 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($640.50 in chips) 
+Seat 2: mascom ($303 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9d 4d]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891841681:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:51:51 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($637.50 in chips) 
+Seat 2: mascom ($306 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5d 9d]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [Qc Ad Jh]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qc Ad Jh]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59891857232:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:52:08 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($625.50 in chips) 
+Seat 2: mascom ($317.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9h Qh]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [9c 7d Td]
+mascom: checks 
+fightingnuns: checks 
+*** TURN *** [9c 7d Td] [Kd]
+mascom: checks 
+fightingnuns: checks 
+*** RIVER *** [9c 7d Td Kd] [2c]
+mascom: bets $22
+fightingnuns: calls $22
+*** SHOW DOWN ***
+mascom: shows [3h 4d] (high card King)
+fightingnuns: shows [9h Qh] (a pair of Nines)
+fightingnuns collected $67.50 from pot
+*** SUMMARY ***
+Total pot $68 | Rake $0.50 
+Board [9c 7d Td Kd 2c]
+Seat 1: fightingnuns (button) (small blind) showed [9h Qh] and won ($67.50) with a pair of Nines
+Seat 2: mascom (big blind) showed [3h 4d] and lost with high card King
+
+
+
+PokerStars Game #59891889719:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:52:42 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($659 in chips) 
+Seat 2: mascom ($283.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd Qc]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: calls $24
+*** FLOP *** [Jd 6c Ah]
+fightingnuns: checks 
+mascom: checks 
+*** TURN *** [Jd 6c Ah] [9h]
+fightingnuns: bets $36
+mascom: calls $36
+*** RIVER *** [Jd 6c Ah 9h] [Js]
+fightingnuns: checks 
+mascom: bets $125
+fightingnuns: calls $125
+*** SHOW DOWN ***
+mascom: shows [Jc 8d] (three of a kind, Jacks)
+fightingnuns: mucks hand 
+mascom collected $393.50 from pot
+*** SUMMARY ***
+Total pot $394 | Rake $0.50 
+Board [Jd 6c Ah 9h Js]
+Seat 1: fightingnuns (big blind) mucked [Qd Qc]
+Seat 2: mascom (button) (small blind) showed [Jc 8d] and won ($393.50) with three of a kind, Jacks
+
+
+
+PokerStars Game #59891927655:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:53:22 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($462 in chips) 
+Seat 2: mascom ($480 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jd 3c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59891932961:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:53:28 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($459 in chips) 
+Seat 2: mascom ($483 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kh 8h]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [3c 9c Qd]
+fightingnuns: checks 
+mascom: checks 
+*** TURN *** [3c 9c Qd] [8s]
+fightingnuns: checks 
+mascom: checks 
+*** RIVER *** [3c 9c Qd 8s] [6d]
+fightingnuns: bets $12
+mascom: folds 
+Uncalled bet ($12) returned to fightingnuns
+fightingnuns collected $23.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3c 9c Qd 8s 6d]
+Seat 1: fightingnuns (big blind) collected ($23.50)
+Seat 2: mascom (button) (small blind) folded on the River
+
+
+
+PokerStars Game #59891956098:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:53:53 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($470.50 in chips) 
+Seat 2: mascom ($471 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Ac Ts]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [2s 2h 9s]
+mascom: bets $20
+fightingnuns: calls $20
+*** TURN *** [2s 2h 9s] [Kd]
+mascom: checks 
+fightingnuns: bets $48
+mascom: calls $48
+*** RIVER *** [2s 2h 9s Kd] [3s]
+mascom: checks 
+fightingnuns: checks 
+*** SHOW DOWN ***
+mascom: shows [5c Ah] (a pair of Deuces)
+fightingnuns: shows [Ac Ts] (a pair of Deuces - Ace+King+Ten kicker)
+fightingnuns collected $159.50 from pot
+*** SUMMARY ***
+Total pot $160 | Rake $0.50 
+Board [2s 2h 9s Kd 3s]
+Seat 1: fightingnuns (button) (small blind) showed [Ac Ts] and won ($159.50) with a pair of Deuces
+Seat 2: mascom (big blind) showed [5c Ah] and lost with a pair of Deuces
+
+
+
+PokerStars Game #59892002441:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:54:42 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($550 in chips) 
+Seat 2: mascom ($391 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7s Qc]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892012138:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:54:52 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($544 in chips) 
+Seat 2: mascom ($397 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5s 2c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892017889:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:54:59 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($541 in chips) 
+Seat 2: mascom ($400 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8d Qs]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [6s Qd 6c]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: raises $24 to $36
+mascom: raises $41 to $77
+fightingnuns: calls $41
+*** TURN *** [6s Qd 6c] [6d]
+fightingnuns: checks 
+mascom: bets $100
+fightingnuns: calls $100
+*** RIVER *** [6s Qd 6c 6d] [Ts]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [8d Qs] (a full house, Sixes full of Queens)
+mascom: mucks hand 
+fightingnuns collected $377.50 from pot
+*** SUMMARY ***
+Total pot $378 | Rake $0.50 
+Board [6s Qd 6c 6d Ts]
+Seat 1: fightingnuns (big blind) showed [8d Qs] and won ($377.50) with a full house, Sixes full of Queens
+Seat 2: mascom (button) (small blind) mucked [Th 3h]
+
+
+
+PokerStars Game #59892060765:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:55:58 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($729.50 in chips) 
+Seat 2: mascom ($211 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Th 4h]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892067417:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:56:07 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($735.50 in chips) 
+Seat 2: mascom ($205 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Tc 9h]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [6d 9d Ad]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [6d 9d Ad] [6h]
+fightingnuns: checks 
+mascom: bets $44
+fightingnuns: folds 
+Uncalled bet ($44) returned to mascom
+mascom collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [6d 9d Ad 6h]
+Seat 1: fightingnuns (big blind) folded on the Turn
+Seat 2: mascom (button) (small blind) collected ($47.50)
+
+
+
+PokerStars Game #59892089811:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:56:38 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($711.50 in chips) 
+Seat 2: mascom ($300 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5h 7c]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892094294:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:56:45 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($708.50 in chips) 
+Seat 2: mascom ($303 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9h 5d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892101825:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:56:55 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($702.50 in chips) 
+Seat 2: mascom ($309 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kh 4c]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892114813:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:57:14 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($690.50 in chips) 
+Seat 2: mascom ($321 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Tc 9c]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [8h Qc Jd]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: raises $24 to $36
+mascom: folds 
+Uncalled bet ($24) returned to fightingnuns
+fightingnuns collected $47.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [8h Qc Jd]
+Seat 1: fightingnuns (big blind) collected ($47.50)
+Seat 2: mascom (button) (small blind) folded on the Flop
+
+
+
+PokerStars Game #59892132439:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:57:38 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($714 in chips) 
+Seat 2: mascom ($297 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [As 5d]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892137707:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:57:45 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($720 in chips) 
+Seat 2: mascom ($291 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3s As]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [7h Ah 4h]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [7h Ah 4h] [Qd]
+fightingnuns: checks 
+mascom: bets $44
+fightingnuns: calls $44
+*** RIVER *** [7h Ah 4h Qd] [8d]
+fightingnuns: checks 
+mascom: bets $100
+fightingnuns: calls $100
+*** SHOW DOWN ***
+mascom: shows [4d 7d] (two pair, Sevens and Fours)
+fightingnuns: mucks hand 
+mascom collected $335.50 from pot
+*** SUMMARY ***
+Total pot $336 | Rake $0.50 
+Board [7h Ah 4h Qd 8d]
+Seat 1: fightingnuns (big blind) mucked [3s As]
+Seat 2: mascom (button) (small blind) showed [4d 7d] and won ($335.50) with two pair, Sevens and Fours
+
+
+
+PokerStars Game #59892167980:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:58:28 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($552 in chips) 
+Seat 2: mascom ($458.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9d Tc]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892176390:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:58:39 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($558 in chips) 
+Seat 2: mascom ($452.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd 6d]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [9c 6h 3c]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [9c 6h 3c] [Th]
+fightingnuns: checks 
+mascom: bets $44
+fightingnuns: folds 
+Uncalled bet ($44) returned to mascom
+mascom collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [9c 6h 3c Th]
+Seat 1: fightingnuns (big blind) folded on the Turn
+Seat 2: mascom (button) (small blind) collected ($47.50)
+
+
+
+PokerStars Game #59892197380:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:59:09 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($534 in chips) 
+Seat 2: mascom ($476 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7c 2s]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892201754:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:59:14 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($531 in chips) 
+Seat 2: mascom ($479 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2d Td]
+mascom: folds 
+Uncalled bet ($3) returned to fightingnuns
+fightingnuns collected $6 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($6)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59892207875:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:59:23 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($534 in chips) 
+Seat 2: mascom ($476 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9s Qc]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892216780:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:59:35 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($522 in chips) 
+Seat 2: mascom ($488 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5d 3d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892223817:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 12:59:45 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($516 in chips) 
+Seat 2: mascom ($494 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qs Jd]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: calls $24
+*** FLOP *** [2s Ts 6h]
+mascom: checks 
+fightingnuns: checks 
+*** TURN *** [2s Ts 6h] [Qh]
+mascom: bets $44
+fightingnuns: calls $44
+*** RIVER *** [2s Ts 6h Qh] [8h]
+mascom: bets $125
+fightingnuns: folds 
+Uncalled bet ($125) returned to mascom
+mascom collected $159.50 from pot
+*** SUMMARY ***
+Total pot $160 | Rake $0.50 
+Board [2s Ts 6h Qh 8h]
+Seat 1: fightingnuns (button) (small blind) folded on the River
+Seat 2: mascom (big blind) collected ($159.50)
+
+
+
+PokerStars Game #59892267767:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:00:38 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($436 in chips) 
+Seat 2: mascom ($573.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h 3d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892275538:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:00:47 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($430 in chips) 
+Seat 2: mascom ($579.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4s 3d]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892280274:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:00:53 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($427 in chips) 
+Seat 2: mascom ($582.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2d 3d]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892287150:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:00 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($421 in chips) 
+Seat 2: mascom ($588.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Th Qs]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: calls $24
+*** FLOP *** [Ac 5d 8h]
+mascom: bets $33
+fightingnuns: folds 
+Uncalled bet ($33) returned to mascom
+mascom collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50 
+Board [Ac 5d 8h]
+Seat 1: fightingnuns (button) (small blind) folded on the Flop
+Seat 2: mascom (big blind) collected ($71.50)
+
+
+
+PokerStars Game #59892306539:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:22 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($385 in chips) 
+Seat 2: mascom ($624 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kh 6s]
+mascom: folds 
+Uncalled bet ($3) returned to fightingnuns
+fightingnuns collected $6 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($6)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59892314392:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:30 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($388 in chips) 
+Seat 2: mascom ($621 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3c 9h]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892319662:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:36 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($385 in chips) 
+Seat 2: mascom ($624 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 2s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892328021:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:45 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($379 in chips) 
+Seat 2: mascom ($630 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7s Th]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892333690:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:01:51 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($376 in chips) 
+Seat 2: mascom ($633 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8d 9c]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892342695:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:00 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($370 in chips) 
+Seat 2: mascom ($639 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h Tc]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892353105:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:10 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($376 in chips) 
+Seat 2: mascom ($633 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd 5c]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892362091:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:20 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($370 in chips) 
+Seat 2: mascom ($639 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8c Kh]
+fightingnuns: raises $6 to $12
+mascom: calls $6
+*** FLOP *** [2d Ks 4d]
+mascom: checks 
+fightingnuns: bets $18
+mascom: folds 
+Uncalled bet ($18) returned to fightingnuns
+fightingnuns collected $23.50 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2d Ks 4d]
+Seat 1: fightingnuns (button) (small blind) collected ($23.50)
+Seat 2: mascom (big blind) folded on the Flop
+
+
+
+PokerStars Game #59892380298:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:39 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($381.50 in chips) 
+Seat 2: mascom ($627 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4s 2c]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892391137:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:49 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($375.50 in chips) 
+Seat 2: mascom ($633 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4s Jd]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892397011:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:02:55 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($372.50 in chips) 
+Seat 2: mascom ($636 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Td Qs]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: folds 
+Uncalled bet ($24) returned to fightingnuns
+fightingnuns collected $24 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($24)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59892413405:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:03:11 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($384.50 in chips) 
+Seat 2: mascom ($624 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9s As]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892424140:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:03:22 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($390.50 in chips) 
+Seat 2: mascom ($618 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Td Jd]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [7c 3s Th]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: calls $12
+*** TURN *** [7c 3s Th] [6h]
+fightingnuns: checks 
+mascom: bets $44
+fightingnuns: calls $44
+*** RIVER *** [7c 3s Th 6h] [2d]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [Td Jd] (a pair of Tens)
+mascom: mucks hand 
+fightingnuns collected $135.50 from pot
+*** SUMMARY ***
+Total pot $136 | Rake $0.50 
+Board [7c 3s Th 6h 2d]
+Seat 1: fightingnuns (big blind) showed [Td Jd] and won ($135.50) with a pair of Tens
+Seat 2: mascom (button) (small blind) mucked [8h Ah]
+
+
+
+PokerStars Game #59892462080:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:03:58 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($458 in chips) 
+Seat 2: mascom ($550 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6h 8c]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892477141:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:04:13 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($446 in chips) 
+Seat 2: mascom ($562 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jh 6s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892486223:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:04:22 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($440 in chips) 
+Seat 2: mascom ($568 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kc 6s]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892500339:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:04:35 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($446 in chips) 
+Seat 2: mascom ($562 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jd 8c]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [6d Kd 9c]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6d Kd 9c]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59892523384:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:04:57 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($434 in chips) 
+Seat 2: mascom ($573.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5c Ks]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892529858:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:05:04 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($431 in chips) 
+Seat 2: mascom ($576.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6c 8h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892538810:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:05:12 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($425 in chips) 
+Seat 2: mascom ($582.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2d Ks]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892553184:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:05:26 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($413 in chips) 
+Seat 2: mascom ($594.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qh 7s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892567035:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:05:39 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($407 in chips) 
+Seat 2: mascom ($600.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8s 9s]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892582396:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:05:54 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($413 in chips) 
+Seat 2: mascom ($594.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jd 6c]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892595077:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:06 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($407 in chips) 
+Seat 2: mascom ($600.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [3d Kh]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892608494:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:19 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($395 in chips) 
+Seat 2: mascom ($612.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5d 8h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892617600:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:27 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($389 in chips) 
+Seat 2: mascom ($618.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8h Kd]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892626109:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:35 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($395 in chips) 
+Seat 2: mascom ($612.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7c Kh]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892634767:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:44 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($389 in chips) 
+Seat 2: mascom ($618.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2c Jh]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892641557:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:06:50 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($386 in chips) 
+Seat 2: mascom ($621.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [9d 7d]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [Kd Th Ah]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kd Th Ah]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59892657947:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:06 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($374 in chips) 
+Seat 2: mascom ($633 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6c Qc]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892669389:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:17 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($362 in chips) 
+Seat 2: mascom ($645 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Td 3h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892680640:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:28 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($356 in chips) 
+Seat 2: mascom ($651 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qs Jd]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892687861:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:35 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($362 in chips) 
+Seat 2: mascom ($645 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [6c 2h]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892698934:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:46 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($356 in chips) 
+Seat 2: mascom ($651 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8d As]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892710921:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:07:57 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($362 in chips) 
+Seat 2: mascom ($645 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7s 8s]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [4h 9c 9h]
+fightingnuns: checks 
+mascom: bets $12
+fightingnuns: folds 
+Uncalled bet ($12) returned to mascom
+mascom collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4h 9c 9h]
+Seat 1: fightingnuns (big blind) folded on the Flop
+Seat 2: mascom (button) (small blind) collected ($23.50)
+
+
+
+PokerStars Game #59892728596:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:08:14 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($350 in chips) 
+Seat 2: mascom ($656.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [2c As]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892735913:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:08:21 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($356 in chips) 
+Seat 2: mascom ($650.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [8d 5s]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+
+PokerStars Game #59892745595:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:08:30 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($350 in chips) 
+Seat 2: mascom ($656.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7d Kc]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892768293:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:08:52 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($338 in chips) 
+Seat 2: mascom ($668.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd Jh]
+mascom: folds 
+Uncalled bet ($3) returned to fightingnuns
+fightingnuns collected $6 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($6)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59892775122:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:08:59 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($341 in chips) 
+Seat 2: mascom ($665.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [4d 8h]
+fightingnuns: folds 
+Uncalled bet ($3) returned to mascom
+mascom collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($6)
+
+
+
+PokerStars Game #59892783180:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:09:07 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($338 in chips) 
+Seat 2: mascom ($668.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [7s Ts]
+mascom: raises $6 to $12
+fightingnuns: calls $6
+*** FLOP *** [7c Qd 4h]
+fightingnuns: checks 
+mascom: checks 
+*** TURN *** [7c Qd 4h] [2c]
+fightingnuns: checks 
+mascom: checks 
+*** RIVER *** [7c Qd 4h 2c] [9c]
+fightingnuns: checks 
+mascom: checks 
+*** SHOW DOWN ***
+fightingnuns: shows [7s Ts] (a pair of Sevens)
+mascom: mucks hand 
+fightingnuns collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7c Qd 4h 2c 9c]
+Seat 1: fightingnuns (big blind) showed [7s Ts] and won ($23.50) with a pair of Sevens
+Seat 2: mascom (button) (small blind) mucked [Th Kd]
+
+
+
+PokerStars Game #59892816972:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:09:39 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($349.50 in chips) 
+Seat 2: mascom ($656.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd Jc]
+fightingnuns: raises $6 to $12
+mascom: folds 
+Uncalled bet ($6) returned to fightingnuns
+fightingnuns collected $12 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) collected ($12)
+Seat 2: mascom (big blind) folded before Flop
+
+
+
+PokerStars Game #59892825976:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:09:48 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($355.50 in chips) 
+Seat 2: mascom ($650.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd Td]
+mascom: raises $6 to $12
+fightingnuns: raises $24 to $36
+mascom: folds 
+Uncalled bet ($24) returned to fightingnuns
+fightingnuns collected $24 from pot
+fightingnuns: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (big blind) collected ($24)
+Seat 2: mascom (button) (small blind) folded before Flop
+
+
+
+PokerStars Game #59892839239:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:10:01 ET
+Table 'Griseldis XI' 2-max Seat #1 is the button
+Seat 1: fightingnuns ($367.50 in chips) 
+Seat 2: mascom ($638.50 in chips) 
+fightingnuns: posts small blind $3
+mascom: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [As 6c]
+fightingnuns: raises $6 to $12
+mascom: raises $24 to $36
+fightingnuns: folds 
+Uncalled bet ($24) returned to mascom
+mascom collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: fightingnuns (button) (small blind) folded before Flop
+Seat 2: mascom (big blind) collected ($24)
+
+
+
+PokerStars Game #59892858380:  Hold'em No Limit ($3/$6 USD) - 2011/03/27 13:10:20 ET
+Table 'Griseldis XI' 2-max Seat #2 is the button
+Seat 1: fightingnuns ($355.50 in chips) 
+Seat 2: mascom ($650.50 in chips) 
+mascom: posts small blind $3
+fightingnuns: posts big blind $6
+*** HOLE CARDS ***
+Dealt to fightingnuns [5h Th]
+mascom: raises $6 to $12
+fightingnuns: folds 
+Uncalled bet ($6) returned to mascom
+mascom collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: fightingnuns (big blind) folded before Flop
+Seat 2: mascom (button) (small blind) collected ($12)
+
+
+

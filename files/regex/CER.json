@@ -1,0 +1,67 @@
+{ 
+	"site" : "Cereus",
+	"version" : "current",
+	"type" : "cash",
+	"action_subs" : ["(?<player_id>.*) - (?<action>Checks|Folds)$",
+						"(?<player_id>.*) - (?<action>Bets|Calls|Raises.*) \\$(?<wager>.*)"],
+	"summary_header" : "*** SUMMARY ***",
+	"state_after_summary" : "rake",
+	"begin_state_list" : "",
+	"header1" : {
+		"regex" : ["Stage #(?<hand_id>.+): (?<game_type>.+) \\$(?<small_blind>.+)\\/\\$(?<big_blind>(\\d*\\.*\\d*))\\W*- (?<date_played>..........) (?<time_played>.+)",
+							"Stage #(?<hand_id>.+): (?<game_type>.+) \\$(?<big_blind>(\\d*\\.*\\d*))\\W*- (?<date_played>..........) (?<time_played>.+)"],
+		"match" : "once" },
+	"header2" : {
+		"regex" : ["Table: (?<table_name>.+) \\((?<real_money>.+)\\) Seat #(?<button>\\d) is the dealer"],
+		"match" : "once"}, 
+	"seats" : {
+		"regex" : ["Seat (?<seat_num>\\d) - (?<player_id>.+) \\(\\$(?<stack>.+) in"]},
+	"sb" : {
+		"regex" : [".+ Posts small blind .+"],
+		"match" : "once" },
+	"bb" : {
+		"regex" : [".+ Posts big blind .+"],
+		"match" : "once" },
+	"posts" : {
+		"regex" : [".+ Posts .+"]},
+	"holecards_header" : {
+		"regex" : [".+ POCKET CARDS .+"],
+		"match" : "once" },
+	"holecards" : {
+		"regex" : ["Dealt to .+ \\[(?<hero_hole_cards>.+)\\]"],
+		"match" : "once"},
+	"action_preflop" : {
+		"regex" : ["(?<action_preflop>.+)"]},
+	"cards_flop" : {
+		"regex" : ["\\*\\*\\* FLOP.+"],
+		"match" : "once"},
+	"action_flop" : {
+		"regex" : ["(?<action_flop>.+)"]},
+	"cards_turn" : {
+		"regex" : ["\\*\\*\\* TURN.+"],
+		"match" : "once"},
+	"action_turn" : {
+		"regex" : ["(?<action_turn>.+)"]},
+	"cards_river" : {
+		"regex" : ["\\*\\*\\* RIVER.+"]},
+	"action_river" : {
+		"regex" : ["(?<action_river>.+)"]},
+	"showdown_header" : {
+		"regex" : ["\\*\\*\\* SHOW DOWN \\*\\*\\*"],
+		"match" : "once"}, 
+	"showdown" : {
+		"regex" : [""]},
+	"rake" : {
+		"regex" : ["\\| Rake \\(\\$(?<rake>.+)\\)",
+							"Total Pot"],
+		"match" : "once"},
+	"board" : {
+		"regex" : ["Board \\[(?<board>.*)\\]"],
+		"match" : "once"},
+	"summary" : {
+		"regex" : ["Seat (?<seat_num>\\d).+ Total \\(\\$(?<result>\\d+\\.*\\d*)\\) .+ \\[(?<hole_cards>\\w[hdsc] \\w[hdsc])",
+							"Seat (?<seat_num>\\d).+ Total \\(\\$(?<result>\\d+\\.*\\d*)\\)",
+							"Seat (?<seat_num>\\d).+ \\[(?<hole_cards>\\w[scdh] \\w[scdh])",
+							""]
+	}	
+}

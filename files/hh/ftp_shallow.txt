@@ -1,0 +1,40 @@
+Full Tilt Poker Game #29901058815: Table Hilldale (6 max, shallow) - $0.01/$0.02 - No Limit Hold'em - 14:36:14 ET - 2011/04/14
+Seat 1: Antonio1104 ($0.20)
+Seat 2: rockw300 ($2.74)
+Seat 3: wahtar ($2.23)
+Seat 4: tfyr ($0.60)
+Seat 5: fightingnuns ($0.80)
+Seat 6: larnak ($0), is sitting out
+rockw300 posts the small blind of $0.01
+wahtar posts the big blind of $0.02
+fightingnuns posts $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to fightingnuns [7h 4h]
+fightingnuns checks
+Antonio1104 folds
+rockw300 calls $0.01
+wahtar checks
+*** FLOP *** [5c Jc Ks]
+rockw300 checks
+wahtar has 15 seconds left to act
+wahtar checks
+fightingnuns checks
+*** TURN *** [5c Jc Ks] [6c]
+rockw300 checks
+wahtar bets $0.02
+fightingnuns raises to $0.12
+rockw300 folds
+wahtar folds
+Uncalled bet of $0.10 returned to fightingnuns
+fightingnuns mucks
+fightingnuns wins the pot ($0.10)
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board: [5c Jc Ks 6c]
+Seat 1: Antonio1104 (button) didn't bet (folded)
+Seat 2: rockw300 (small blind) folded on the Turn
+Seat 3: wahtar (big blind) folded on the Turn
+Seat 4: tfyr is sitting out
+Seat 5: fightingnuns collected ($0.10), mucked
+Seat 6: larnak is sitting out

@@ -1,0 +1,53 @@
+Full Tilt Poker Game #29581935867: Table Burn - $1/$2 - No Limit Hold'em - 05:21:25 ET - 2011/04/03
+Seat 1: MacTekNY ($1,101.65)
+Seat 2: Bigkawik ($200)
+Seat 3: Zmii_rk ($61.35)
+Seat 4: smartwolfone ($206.80)
+Seat 5: turbotin ($200)
+Seat 6: x-sebi-x ($200)
+Seat 7: aklovelove123 ($268.55)
+Seat 8: fightingnuns ($233.15)
+Seat 9: misterdanilo ($203)
+MacTekNY posts the small blind of $1
+Bigkawik posts the big blind of $2S
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qc Ad]
+Zmii_rk folds
+smartwolfone folds
+turbotin folds
+x-sebi-x folds
+aklovelove123 folds
+fightingnuns raises to $6
+misterdanilo folds
+MacTekNY calls $5
+Bigkawik calls $4
+*** FLOP *** [5s 4c 5d]
+MacTekNY has 15 seconds left to act
+MacTekNY bets $10
+Bigkawik folds
+Bigkawik adds $6
+fightingnuns calls $10
+*** TURN *** [5s 4c 5d] [2c]
+MacTekNY bets $16
+fightingnuns calls $16
+*** RIVER *** [5s 4c 5d 2c] [Qh]
+MacTekNY has 15 seconds left to act
+MacTekNY bets $30
+fightingnuns calls $30
+*** SHOW DOWN ***
+MacTekNY shows [4d Ac] two pair, Fives and Fours
+fightingnuns shows [Qc Ad] two pair, Queens and Fives
+fightingnuns wins the pot ($127) with two pair, Queens and Fives
+*** SUMMARY ***
+Total pot $130 | Rake $3
+Board: [5s 4c 5d 2c Qh]
+Seat 1: MacTekNY (small blind) showed [4d Ac] and lost with two pair, Fives and Fours
+Seat 2: Bigkawik (big blind) folded on the Flop
+Seat 3: Zmii_rk didn't bet (folded)
+Seat 4: smartwolfone didn't bet (folded)
+Seat 5: turbotin didn't bet (folded)
+Seat 6: x-sebi-x didn't bet (folded)
+Seat 7: aklovelove123 didn't bet (folded)
+Seat 8: fightingnuns showed [Qc Ad] and won ($127) with two pair, Queens and Fives
+Seat 9: misterdanilo (button) didn't bet (folded)

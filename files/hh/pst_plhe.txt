@@ -1,0 +1,26 @@
+PokerStars Game #60833366588:  Hold'em Pot Limit ($0.50/$1.00 USD) - 2011/04/14 17:30:08 ET
+Table 'Osita XI' 9-max Seat #9 is the button
+Seat 1: farshmashine ($40 in chips) 
+Seat 5: fightingnuns ($80 in chips) 
+Seat 9: realdavid111 ($42.50 in chips) 
+farshmashine: posts small blind $0.50
+Vzcouver: is sitting out 
+fightingnuns: posts big blind $1
+Mr.smith12: sits out 
+*** HOLE CARDS ***
+Dealt to fightingnuns [Qd 6s]
+Vzcouver leaves the table
+realdavid111: folds 
+farshmashine: raises $2 to $3
+Mr.smith12 leaves the table
+fightingnuns: folds 
+Uncalled bet ($2) returned to farshmashine
+farshmashine collected $2 from pot
+farshmashine: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: farshmashine (small blind) collected ($2)
+Seat 5: fightingnuns (big blind) folded before Flop
+Seat 9: realdavid111 (button) folded before Flop (didn't bet)
+
+

@@ -1,0 +1,31 @@
+Full Tilt Poker Game #29900731726: Table Check (6 max) - $0.10/$0.25 - Pot Limit Omaha Hi - 14:23:51 ET - 2011/04/14
+Seat 2: fightingnuns ($25)
+Seat 3: Donkeymon ($32.65)
+Seat 4: Kuula_paa ($33.17)
+Seat 5: rpavl690 ($18.53)
+Kuula_paa posts the small blind of $0.10
+rpavl690 posts the big blind of $0.25
+fightingnuns posts a dead small blind of $0.10
+fightingnuns posts $0.25
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to fightingnuns [Jd 5h 6s Kd]
+fightingnuns raises to $0.60
+Donkeymon folds
+Kuula_paa calls $0.50
+rpavl690 folds
+*** FLOP *** [2h Qs Qc]
+Kuula_paa checks
+fightingnuns has 15 seconds left to act
+fightingnuns bets $0.25
+Kuula_paa folds
+Uncalled bet of $0.25 returned to fightingnuns
+fightingnuns mucks
+fightingnuns wins the pot ($1.48)
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07
+Board: [2h Qs Qc]
+Seat 2: fightingnuns collected ($1.48), mucked
+Seat 3: Donkeymon (button) didn't bet (folded)
+Seat 4: Kuula_paa (small blind) folded on the Flop
+Seat 5: rpavl690 (big blind) folded before the Flop

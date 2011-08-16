@@ -1,0 +1,22 @@
+Full Tilt Poker Game #29900319201: Table Dew (heads up) - $0.25/$0.50 - Pot Limit Hold'em - 14:08:25 ET - 2011/04/14
+Seat 1: Kr3pstukas ($56.40)
+Seat 2: fightingnuns ($50)
+Kr3pstukas posts the small blind of $0.25
+fightingnuns posts the big blind of $0.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to fightingnuns [Kd 4c]
+Kr3pstukas raises to $1
+fightingnuns folds
+fightingnuns adds $0.50
+Uncalled bet of $0.50 returned to Kr3pstukas
+Kr3pstukas mucks
+Kr3pstukas wins the pot ($1)
+fightingnuns is sitting out
+*** SUMMARY ***
+Total pot $1 | Rake $0
+Seat 1: Kr3pstukas (small blind) collected ($1), mucked
+Seat 2: fightingnuns (big blind) folded before the Flop
+
+
+

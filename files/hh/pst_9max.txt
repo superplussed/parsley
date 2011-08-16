@@ -1,0 +1,52 @@
+PokerStars Game #60832472342:  Hold'em No Limit ($0.01/$0.02 USD) - 2011/04/14 17:13:04 ET
+Table 'Wurm V' 9-max Seat #5 is the button
+Seat 1: ajfa11 ($2.50 in chips) 
+Seat 2: doggit49 ($0.48 in chips) 
+Seat 3: nashe9 ($2.86 in chips) 
+Seat 4: fightingnuns ($1.60 in chips) 
+Seat 5: Nr_Wolf ($2.93 in chips) 
+Seat 6: Proprietor_8 ($1.51 in chips) 
+Seat 7: ku12 ($2 in chips) 
+Seat 8: Asya Selina ($4.91 in chips) 
+Seat 9: illussion1 ($1.96 in chips) 
+Proprietor_8: posts small blind $0.01
+ku12: posts big blind $0.02
+fightingnuns: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to fightingnuns [9h 4d]
+Asya Selina: folds 
+illussion1: folds 
+ajfa11: folds 
+doggit49: folds 
+nashe9: folds 
+fightingnuns: raises $0.04 to $0.06
+Nr_Wolf: folds 
+Proprietor_8: raises $0.12 to $0.18
+ku12: folds 
+fightingnuns: calls $0.12
+*** FLOP *** [5h 7h Ac]
+Proprietor_8: checks 
+fightingnuns: checks 
+*** TURN *** [5h 7h Ac] [As]
+Proprietor_8: bets $0.08
+fightingnuns: calls $0.08
+*** RIVER *** [5h 7h Ac As] [Jh]
+Proprietor_8: bets $0.12
+fightingnuns: raises $0.40 to $0.52
+Proprietor_8: calls $0.40
+*** SHOW DOWN ***
+fightingnuns: shows [9h 4d] (a pair of Aces)
+Proprietor_8: shows [Ks Ah] (three of a kind, Aces)
+Proprietor_8 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.07 
+Board [5h 7h Ac As Jh]
+Seat 1: ajfa11 folded before Flop (didn't bet)
+Seat 2: doggit49 folded before Flop (didn't bet)
+Seat 3: nashe9 folded before Flop (didn't bet)
+Seat 4: fightingnuns showed [9h 4d] and lost with a pair of Aces
+Seat 5: Nr_Wolf (button) folded before Flop (didn't bet)
+Seat 6: Proprietor_8 (small blind) showed [Ks Ah] and won ($1.51) with three of a kind, Aces
+Seat 7: ku12 (big blind) folded before Flop
+Seat 8: Asya Selina folded before Flop (didn't bet)
+Seat 9: illussion1 folded before Flop (didn't bet)
