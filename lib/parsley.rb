@@ -7,12 +7,39 @@ class Parsley
 	def self.file_path
 		@@file_path
 	end
+	
+	attr_reader :file_count, :files_read, :hands_read
 
 	def initialize file_path
-		@@file_path, @last_line_had_text = file_path, nil
+		@@file_path, @last_line_had_text, @files_read, @hands_read = file_path, nil, 0, 0
 		@hand_reader = HandReader.new
 		Site.load_hh_identifiers!
-		read_from_file
+		if Dir.exist?(file_path)
+			read_directory
+		elsif File.exist?(file_path)
+			@file_count = 1
+			read_file
+		else
+			@file_count = 0
+			send_not_found
+		end
+	end
+	
+	private
+	
+	def read_directory
+		dir, files = @@file_path, []
+		Find.find(dir){ |fn| files.push(fn) unless Dir.exist?(fn) || hidden_file?(fn)}
+		@file_count = files.count
+		files.each {|fn|
+			@files_read += 1
+			@@file_path = fn
+			read_from_file 
+		}
+	end
+	
+	def send_not_found
+		
 	end
  
   def read_from_file 
@@ -23,14 +50,19 @@ class Parsley
 				line.rstrip!
 				this_line_has_text = !line.empty?
       	@hand_reader.read(line) if this_line_has_text
-				@hand_reader.end_hand if (!this_line_has_text && @last_line_had_text) || f.eof
+				if (!this_line_has_text && @last_line_had_text) || f.eof
+						@hand_reader.end_hand 
+						@hands_read += 1
+				end
 				@last_line_had_text = this_line_has_text
 			end
     end 
 		#RubyProf.end(hide_rails: true)
   end
 
-	private
+	def hidden_file? string
+		string.match(/.*\/\./)
+	end
 		
 	def get_access_string filetype
 		case filetype
