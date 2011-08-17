@@ -1,9 +1,15 @@
 require File.join(File.dirname(__FILE__), '..', 'config/boot')
 
 class Parsley
+	
+	@@file_path = nil
+	
+	def self.file_path
+		@@file_path
+	end
 
-	def initialize file_name
-		@file_name, @last_line_had_text = file_name, nil
+	def initialize file_path
+		@@file_path, @last_line_had_text = file_path, nil
 		@hand_reader = HandReader.new
 		Site.load_hh_identifiers!
 		read_from_file
@@ -11,8 +17,8 @@ class Parsley
  
   def read_from_file 
 		#RubyProf.start
-		filetype = Mahoro.new.file(@file_name)
-    File.open(full_path, get_access_string(filetype)) do |f|
+		filetype = Mahoro.new.file(@@file_path)
+    File.open(@@file_path, get_access_string(filetype)) do |f|
 			f.each_line do |line|
 				line.rstrip!
 				this_line_has_text = !line.empty?

@@ -1,7 +1,9 @@
+TEST_PATH = "/Users/jeremysmith/code/parsley/files/hh"
+
 Given /^a hand history file named "(.*)"$/ do |fn|
 	#$redis.flushall
 	@fn = fn
-	@parser = Parsley.new(@fn)  
+	@parser = Parsley.new("#{TEST_PATH}/#{@fn}.txt")  
 end
 
 When /^it is parsed and formatted$/ do
