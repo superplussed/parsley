@@ -14,7 +14,8 @@ class Parsley
 		@@file_path, @last_line_had_text, @files_read, @hands_read = file_path, nil, 0, 0
 		@hand_reader = HandReader.new
 		Site.load_hh_identifiers!
-		if Dir.exist?(file_path)
+		unzip if file_path.gsub(/\.zip$/)
+		if File.directory?(file_path)
 			read_directory
 		elsif File.exist?(file_path)
 			@file_count = 1
@@ -26,6 +27,18 @@ class Parsley
 	end
 	
 	private
+	
+	def unzip
+		require 'zip/zip'
+		destination = File.dirname(@@file_path)
+		Zip::ZipFile.open(@@file_path) { |zip_file|
+		   zip_file.each { |f|
+		     f_path=File.join(destination, f.name)
+		     FileUtils.mkdir_p(File.dirname(f_path))
+		     zip_file.extract(f, f_path) unless File.exist?(f_path)
+		   }
+		}
+	end
 	
 	def read_directory
 		dir, files = @@file_path, []
@@ -42,7 +55,7 @@ class Parsley
 		
 	end
  
-  def read_from_file 
+  def read_file 
 		#RubyProf.start
 		filetype = Mahoro.new.file(@@file_path)
     File.open(@@file_path, get_access_string(filetype)) do |f|
