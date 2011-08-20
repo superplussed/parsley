@@ -112,7 +112,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/redCashion/parsley}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.7}
+  s.rubygems_version = %q{1.8.6}
   s.summary = %q{hand history parser}
 
   if s.respond_to? :specification_version then
