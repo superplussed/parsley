@@ -12,7 +12,3 @@ group :test do
 	gem 'cucumber', '1.0.2'
 	gem 'rspec', '2.6.0'
 end
-
-group :development do
-  gem "bundler", "~> 1.0.0"
-end
