@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
+    ".DS_Store",
     ".document",
     "Gemfile",
     "Gemfile.lock",
@@ -26,7 +27,9 @@ Gem::Specification.new do |s|
     "VERSION",
     "config/boot.rb",
     "config/initializers/redis.rb",
+    "config/initializers/redis.rbc",
     "config/initializers/ruby_prof.rb",
+    "config/initializers/ruby_prof.rbc",
     "features/parser_reads_cereus_file.feature",
     "features/parser_reads_fulltilt_file.feature",
     "features/parser_reads_pokerstars_file.feature",
@@ -35,6 +38,7 @@ Gem::Specification.new do |s|
     "features/support/paths.rb",
     "features/support/selectors.rb",
     "features/support/textmate_spork_fix.rb",
+    "files/.DS_Store",
     "files/hh/.DS_Store",
     "files/hh/cer_9max.txt",
     "files/hh/cer_9max_pl.txt",
