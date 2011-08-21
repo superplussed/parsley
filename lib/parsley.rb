@@ -1,7 +1,7 @@
 require File.join(File.dirname(__FILE__), '..', 'config/boot')
 
 class Parsley
-	
+
 	@@file_path = nil
 	
 	def self.file_path
@@ -14,10 +14,11 @@ class Parsley
 		@@file_path, @last_line_had_text, @files_read, @hands_read = file_path, nil, 0, 0
 		@hand_reader = HandReader.new
 		Site.load_hh_identifiers!
-		unzip if file_path.gsub(/\.zip$/)
-		if File.directory?(file_path)
+		p file_path
+		@@file_path = Zip.unzip(file_path) if file_path.match(/\.zip$/)
+		if File.directory?(@@file_path)
 			read_directory
-		elsif File.exist?(file_path)
+		elsif File.exist?(@@file_path)
 			@file_count = 1
 			read_file
 		else
@@ -28,26 +29,16 @@ class Parsley
 	
 	private
 	
-	def unzip
-		require 'zip/zip'
-		destination = File.dirname(@@file_path)
-		Zip::ZipFile.open(@@file_path) { |zip_file|
-		   zip_file.each { |f|
-		     f_path=File.join(destination, f.name)
-		     FileUtils.mkdir_p(File.dirname(f_path))
-		     zip_file.extract(f, f_path) unless File.exist?(f_path)
-		   }
-		}
-	end
-	
 	def read_directory
+		require 'find'
+		
 		dir, files = @@file_path, []
 		Find.find(dir){ |fn| files.push(fn) unless Dir.exist?(fn) || hidden_file?(fn)}
 		@file_count = files.count
 		files.each {|fn|
 			@files_read += 1
 			@@file_path = fn
-			read_from_file 
+			read_file 
 		}
 	end
 	
@@ -83,8 +74,10 @@ class Parsley
     	"r:UTF-16LE"
     when "UTF-8 Unicode (with BOM) English text"
       "r:UTF-8"
-    else
-    	"r:UTF-8"
+    when "UTF-8 Unicode (with BOM) English text, with CRLF line terminators"
+			"rb"
+		else
+    	raise "Unknown file format '#{filetype}' for #{@@file_path}"
 		end
 	end
 end

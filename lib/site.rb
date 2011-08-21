@@ -13,6 +13,7 @@ class Site
 	
 	def self.find_from_hh str
 		Site.load_hh_identifiers! if @@hh_identifiers.length == 0
-		@@hh_identifiers.each{|ident, site_id| return site_id if str.include?(ident)} || raise("Invalid Site Name #{str}")
+		@@hh_identifiers.each{|ident, site_id| return site_id if str.include?(ident)}
+		nil
 	end
 end

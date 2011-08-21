@@ -6,14 +6,9 @@ class HandReader
 		@default_parser, @seats_parser, @action_parser, @new_hand = Parser.new(@state, @hand), ParserForSeatsState.new(@state, @hand), ParserForActionState.new(@state, @hand), true
   end
 
-	def begin_hand line
-		initialize_site(line)
-		@state.reset_current
-	end
-
   def read line
-		begin_hand(line) if line && @new_hand
-		parse(line)
+		valid_site_found = begin_hand(line) if @new_hand
+		parse(line) if !@new_hand || valid_site_found
   end
 
 	def end_hand
@@ -23,8 +18,17 @@ class HandReader
 
   private
 
-	def initialize_site(line)
-    new_site = Site.find_from_hh(line.split[0..1].join)
+	def begin_hand line
+		new_site = Site.find_from_hh(line.split[0..1].join)
+		if (new_site)
+			initialize_site(new_site)
+			@state.reset_current
+			return true
+		end
+		return false
+	end
+	
+	def initialize_site new_site
 		if new_site != @site_id 
 			@site_id = new_site
 			@state.load_definitions(@site_id)
