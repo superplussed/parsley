@@ -14,7 +14,6 @@ class Parsley
 		@@file_path, @last_line_had_text, @files_read, @hands_read = file_path, nil, 0, 0
 		@hand_reader = HandReader.new
 		Site.load_hh_identifiers!
-		p file_path
 		@@file_path = Zip.unzip(file_path) if file_path.match(/\.zip$/)
 		if File.directory?(@@file_path)
 			read_directory
@@ -47,8 +46,7 @@ class Parsley
 	end
  
   def read_file 
-		#RubyProf.start
-		filetype = Mahoro.new.file(@@file_path)
+		filetype = `file -Ib #{@@file_path}`.gsub(/\n/,"")
     File.open(@@file_path, get_access_string(filetype)) do |f|
 			f.each_line do |line|
 				line.rstrip!
@@ -61,7 +59,6 @@ class Parsley
 				@last_line_had_text = this_line_has_text
 			end
     end 
-		#RubyProf.end(hide_rails: true)
   end
 
 	def hidden_file? string
@@ -72,7 +69,7 @@ class Parsley
 		case filetype
 		when "Little-endian UTF-16 Unicode English text" 
     	"r:UTF-16LE"
-    when "UTF-8 Unicode (with BOM) English text"
+    when "text/plain; charset=utf-8"
       "r:UTF-8"
     when "UTF-8 Unicode (with BOM) English text, with CRLF line terminators"
 			"rb"
