@@ -1,12 +1,12 @@
 class Hand
 	attr_accessor :fields
 
-	def self.unprocessed_id
+	def self.get_unprocessed_hand_id
 		$redis.lpop("unprocessed:hand")
 	end
-	
-	def self.get_hand_id fn
-		$redis.keys("hand:#{fn}:*")
+
+	def self.delete_hand id
+		$redis.del id
 	end
 	
 	def self.get_val id, key
@@ -62,7 +62,7 @@ class Hand
 			add_fields
 			add_lists
 			id = hand_id
-			$redis.rpush("unprocessed:hand", id)
+			$redis.rpush("unprocessed:hand", "hand:#{id}")
 			$redis.hmset("hand:#{id}", *@fields) 
 			reset
 		end

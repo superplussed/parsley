@@ -1,5 +1,3 @@
-require 'iconv'
-
 class String
   def basename 
     self.match('.*\/(.*)')[1]
@@ -8,8 +6,5 @@ class String
   def hidden_file? 
     self.match(/.*\/\./)
   end
-
-  def to_ascii_iconv
-    self.unpack("U*").map{|c|c.chr}.join
-  end
+  
 end
