@@ -1,5 +1,0 @@
-A file should be added at config/initializers/auth.rb in the format:
-
-$s3_access_key_id = ID;
-$s3_secret_access_key = KEY;
-$s3_bucket = BUCKET;

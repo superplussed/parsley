@@ -1,2 +1,4 @@
 .DS_Store
 config/initializers/auth.rb
+dump.rdb
+Gemfile.lock
