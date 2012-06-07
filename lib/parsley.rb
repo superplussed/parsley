@@ -2,7 +2,6 @@ require 'find'
 
 class Parsley
 	DOWNLOAD_FOLDER = "/tmp/downloads"
-	attr_reader :files_read, :hands_read
 
 	def initialize
 		@hand_reader = HandReader.new
@@ -20,12 +19,11 @@ class Parsley
 	end
 
 	def scan path
-		@hands_read = 0
 		Find.find(path){ |file_name|
 			if file_name.include?(".txt")
 				@last_line_was_empty = nil
 				FileHelper.open(file_name).each_line { |line| process(line) }
-				end_hand
+				@hand_reader.end_hand
 			end
 		}
 	end
@@ -35,15 +33,10 @@ private
 	def process line
 		line.strip!
 		if line.empty?
-			end_hand unless @last_line_was_empty
+			@hand_reader.end_hand unless @last_line_was_empty
 		else
-  		@hand_reader.read(line)
+		@hand_reader.read(line)
 		end
 		@last_line_was_empty = line.empty?
 	end
-
-  def end_hand
-		@hand_reader.end_hand 
-		@hands_read += 1
-  end
 end
