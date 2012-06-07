@@ -10,9 +10,6 @@ module Formatter
 			format(["table_type", "max_bb", "currency", "cash_game"])
 			@fields
 		end
-
-		# setting fields instead of returning default value because of the times that multiple
-		# attributes are set in one function
 	
 		def create_time_field
 			date, time = @fields["date_played"].split("/"), @fields["time_played"].split(":")
@@ -24,19 +21,19 @@ module Formatter
 		end
 	
 		def max_bb val
-			@fields["max_bb"] = 100 unless val
+			val || @fields["max_bb"] = 100
 		end
 
 		def table_type val
-			@fields["table_type"] = "normal" unless val
+			val || @fields["table_type"] = "normal"
 		end
 
 		def currency val
-			@fields["currency"] = "USD" unless val
+			val || @fields["currency"] = "USD"
 		end
 
 		def table_max val
-			@fields["table_max"] = 9 unless val
+			val || @fields["table_max"] = 9
 		end
 
 		def format ary

@@ -10,7 +10,7 @@ class Parsley
 	end
 
 	def check_for_uploaded_files
-		AWS::S3::Bucket.find('robusto.uploads').objects.each {|obj|
+		AWS::S3::Bucket.find($s3_bucket).objects.each {|obj|
 			file_name = obj.key
 			file_path = "#{DOWNLOAD_FOLDER}/#{file_name}"
 			File.open(file_path, 'w') {|f| f.write(obj.value) }

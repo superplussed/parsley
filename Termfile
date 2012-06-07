@@ -1,0 +1,21 @@
+setup 'echo "setup"'
+
+tab "echo 'default'", "echo 'default tab'"
+
+window do
+
+  tab "redis-server" do
+    run "echo 'named tab'"
+    run "redis-server"
+  end
+
+  tab "mongod" do
+    run "echo 'named tab'"
+    run "mongod"
+  end  
+
+  tab "guard" do
+    run "echo 'named tab'"
+    run "guard"
+  end
+end
