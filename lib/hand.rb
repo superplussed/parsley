@@ -1,6 +1,8 @@
 class Hand
 	attr_accessor :fields
 
+	SEAT_FIELDS = ["player_id", "stack", "hole_cards", "result"]
+
 	def self.get_unprocessed_hand_id
 		$redis.lpop("unprocessed:hand")
 	end
@@ -22,18 +24,9 @@ class Hand
 	end
 
 	def add_to_seat seat, name, val
-		case name
-		when "player_id"
-			idx = 0
-		when "stack"
-			idx = 1
-		when "hole_cards"
-			idx = 2
-		when "result"
-			idx = 3
-		end
+		i = SEAT_FIELDS.index(name)
 		if @seats[seat] 
-			@seats[seat].insert(idx, val)
+			@seats[seat].insert(i, val)
 		else 
 			@seats[seat] = [val]
 			@seated += 1
