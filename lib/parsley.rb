@@ -35,7 +35,7 @@ private
 		if line.empty?
 			@hand_reader.end_hand unless @last_line_was_empty
 		else
-		@hand_reader.read(line)
+			@hand_reader.read(line)
 		end
 		@last_line_was_empty = line.empty?
 	end

@@ -18,12 +18,13 @@ module Formatter
 			game_type = val.slice!(/\w+/)
 			case val.strip!
 			when "Pot Limit"
-				@fields["limit_type"] = "PL"
+				limit_type = "PL"
 			when "No Limit"
-				@fields["limit_type"] = "NL"
+				limit_type = "NL"
 			else
-				@fields["limit_type"] = "FL"
+				limit_type = "FL"
 			end
+			 @fields["limit_type"] = limit_type
 			game_type.eql?("Holdem") ? @fields["game_type"] = "HE" : @fields["game_type"] = "Omaha"
 		end
 	end                     

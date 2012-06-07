@@ -4,13 +4,13 @@ module Formatter
 		def table_max val
 			case val 
 			when "2-max"
-				val = 2
+				table_max = 2
 			when "6-max"
-				val = 6
+				table_max = 6
 			else
-				val = 9
+				table_max = 9
 			end
-			@fields["table_max"] = val
+			@fields["table_max"] = table_max
 		end
 
 		def game_type val
@@ -18,12 +18,13 @@ module Formatter
 			game_type = val.slice!(/\w+/)
 			case val.strip!
 			when "Pot Limit"
-				@fields["limit_type"] = "PL"
+				limit_type = "PL"
 			when "Limit"
-				@fields["limit_type"] = "FL"
+				limit_type = "FL"
 			else
-				@fields["limit_type"] = "NL"
+				limit_type = "NL"
 			end
+			@fields["limit_type"] = limit_type
 			game_type.eql?("Omaha") ? @fields["game_type"] = "Omaha" : @fields["game_type"] = "HE"
 		end
 	end
