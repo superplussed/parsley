@@ -4,61 +4,61 @@ class Hand
   SEAT_FIELDS = ["player_id", "stack", "hole_cards", "result"]
 
   def self.get_unprocessed_hand_id
-  	$redis.lpop("unprocessed:hand")
+    $redis.lpop("unprocessed:hand")
   end
 
   def self.delete_hand id
-  	$redis.del id
+    $redis.del id
   end
 
   def self.get_val id, key
-  	$redis.hget(id, key)
+    $redis.hget(id, key)
   end
 
   def initialize
-  	reset
+    reset
   end
 
   def add_action name, val
-  	@actions[name].push(val)
+    @actions[name].push(val)
   end
 
   def add_to_seat seat, name, val
-  	i = SEAT_FIELDS.index(name)
-  	if @seats[seat]
-  		@seats[seat].insert(i, val)
-  	else
-  		@seats[seat] = [val]
-  		@seated += 1
-  	end
+    i = SEAT_FIELDS.index(name)
+    if @seats[seat]
+      @seats[seat].insert(i, val)
+    else
+      @seats[seat] = [val]
+      @seated += 1
+    end
   end
 
   def reset
-  	@fields, @seats, @seated = {}, {}, 0
-  	@actions = {"action_preflop" => [], "action_flop" => [], "action_turn" => [], "action_river" => []}
+    @fields, @seats, @seated = {}, {}, 0
+    @actions = {"action_preflop" => [], "action_flop" => [], "action_turn" => [], "action_river" => []}
   end
 
   def add_fields
-  	@fields.push("seated").push(@seated) unless @fields.include?("seated")
+    @fields.push("seated").push(@seated) unless @fields.include?("seated")
   end
 
   def add_lists
-  	@fields.flatten!
-  	@seats.each {|k,v| @fields.push(k).push(v.to_s)}
-  	@actions.each {|k,v| @fields.push(k).push(v.to_s)}
+    @fields.flatten!
+    @seats.each {|k,v| @fields.push(k).push(v.to_s)}
+    @actions.each {|k,v| @fields.push(k).push(v.to_s)}
   end
 
   def write
-  	if @fields.count > 0
-  		hand_id = @fields['hand_id']
-  		@fields = Formatter.get(@fields).to_a
-  		add_fields
-  		add_lists
-  		id = hand_id
-  		$redis.rpush("unprocessed:hand", "hand:#{id}")
-  		$redis.hmset("hand:#{id}", *@fields)
-  		reset
-  	end
+    if @fields.count > 0
+      hand_id = @fields['hand_id']
+      @fields = Formatter.get(@fields).to_a
+      add_fields
+      add_lists
+      id = hand_id
+      $redis.rpush("unprocessed:hand", "hand:#{id}")
+      $redis.hmset("hand:#{id}", *@fields)
+      reset
+    end
   end
 
 end
