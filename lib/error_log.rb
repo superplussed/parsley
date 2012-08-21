@@ -13,7 +13,7 @@ module ErrorLog
 	end
 	
 	def self.send_raise klass, str
-		klass.kind_of?(String) ? klass_name = klass : klass_name = klass.class
+		klass_name = klass.kind_of?(String) ? klass : klass.class
 		str = "#{klass_name}: #{str}"
 		raise str
 	end

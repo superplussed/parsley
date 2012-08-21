@@ -70,7 +70,7 @@ class ParserForActionState < Parser
 			results = re.match(string)
 			if results
 				action = results["action"].downcase
-				action[0].eql?("c") ? action = action[0..1] : action = action[0]
+				action = action[0].eql?("c") ? action[0..1] : action[0]
 				ary = [results["player_id"], action]
 				ary.push(results["wager"].to_f) if results.names.include?("wager") 
 				return ary 

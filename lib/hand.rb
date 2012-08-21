@@ -10,7 +10,7 @@ class Hand
 	def self.delete_hand id
 		$redis.del id
 	end
-	
+
 	def self.get_val id, key
 		$redis.hget(id, key)
 	end
@@ -25,9 +25,9 @@ class Hand
 
 	def add_to_seat seat, name, val
 		i = SEAT_FIELDS.index(name)
-		if @seats[seat] 
+		if @seats[seat]
 			@seats[seat].insert(i, val)
-		else 
+		else
 			@seats[seat] = [val]
 			@seated += 1
 		end
@@ -41,7 +41,7 @@ class Hand
 	def add_fields
 		@fields.push("seated").push(@seated) unless @fields.include?("seated")
 	end
-	
+
 	def add_lists
 		@fields.flatten!
 		@seats.each {|k,v| @fields.push(k).push(v.to_s)}
@@ -56,8 +56,9 @@ class Hand
 			add_lists
 			id = hand_id
 			$redis.rpush("unprocessed:hand", "hand:#{id}")
-			$redis.hmset("hand:#{id}", *@fields) 
+			$redis.hmset("hand:#{id}", *@fields)
 			reset
 		end
 	end
+
 end

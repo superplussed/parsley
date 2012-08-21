@@ -24,8 +24,8 @@ module Formatter
 			else
 				limit_type = "FL"
 			end
-			 @fields["limit_type"] = limit_type
-			game_type.eql?("Holdem") ? @fields["game_type"] = "HE" : @fields["game_type"] = "Omaha"
+			@fields["limit_type"] = limit_type
+			@fields["game_type"] = game_type.eql?("Holdem") ? "HE" : "Omaha"
 		end
 	end                     
 end

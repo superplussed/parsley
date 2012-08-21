@@ -3,18 +3,18 @@ module Formatter
 
 		def table_max val
 			case val
-	 			when "heads up"
-					val = 2
-	 			when "6 max, shallow"
+				when "heads up"
+					max = 2
+				when "6 max, shallow"
 					@fields["max_bb"] = 40
 					@fields["table_type"] = "shallow"
-					val = 6
+					max = 6
 				when "6 max"
-					val = 6
-	 			else 
-					val = 9
+					max = 6
+				else 
+					max = 9
 			end
-			@fields["table_max"] = val
+			@fields["table_max"] = max
 		end
 
 		def game_type val
@@ -23,13 +23,14 @@ module Formatter
 			game_type = ary[2]
 			case limit_type.strip!
 			when "Pot"
-				@fields["limit_type"] = "PL"
+				limit_type = "PL"
 			when "No"
-				@fields["limit_type"] = "NL"
+				limit_type = "NL"
 			else
-				@fields["limit_type"] = "FL"
+				limit_type = "FL"
 			end
-			game_type.eql?("Hold'em") ? @fields["game_type"] = "HE" : @fields["game_type"] = "Omaha"
+			@fields["limit_type"] = limit_type;
+			@fields["game_type"] = game_type.eql?("Hold'em") ? "HE" : "Omaha"
 		end
 	end
 end
